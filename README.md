@@ -12,6 +12,8 @@
     - [“Men’s Labor” Landscaping and Chauffeuring​](/9)
     - [Rest and Respite ](/10)
 
+NOTE: We will add/change this text, it's just stand in for the landing page, before the exhibit/essay begins. 
+
 This site highlights the Glenmont Estate. It is a collaboration between Research Fellow Melissa Benbow, Edison Papers Director Paul Israel, and Nicole Wines. Click on the links below to explore this exhibit.
 ​
 ### Explore the exhibit {.cards}
