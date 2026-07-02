@@ -2,8 +2,7 @@
     - [Home](/)
     - [Introduction](/introduction)
     - [Glenmont, the Working Estate](/1)
-    - [“Back of the House,” Domestic Work and Navigating the
-Glenmont Estate​](/2)
+    - [“Back of the House,” Domestic Work and Navigating the Glenmont Estate​](/2)
     - [Maintaining the Second Floor](/3)
     - [Child Care & Intimacy Work](/4)
     - [Laundry](/5)
