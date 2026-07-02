@@ -9,7 +9,7 @@
     - [Preparing for Guests​](/6)
     - [Staff Organization and Work Beyond Glenmont​](/7)
     - [Special Guests and Special Occasions​](/8)
-    - ["Men’s Labor" Landscaping and Chauffeuring​](/9)
+    - ['Men’s Labor' Landscaping and Chauffeuring​](/9)
     - [Rest and Respite ](/10)
     
 Glenmont, pictured above has been one of the premiere estates of Llewellyn Park, a private community in West Orange, New Jersey since 1882. In 1886, the Glenmont estate became the home of Thomas and Mina Edison. For the next six decades, domestic workers, including cooks, chambermaids, parlor maids, laundresses, housemen, gardeners, and general servants served as support staff to Mina Edison in the maintenance of the home. ​
