@@ -9,7 +9,7 @@
     - [Preparing for Guests​](/6)
     - [Staff Organization and Work Beyond Glenmont​](/7)
     - [Special Guests and Special Occasions​](/8)
-    - ['Men’s Labor' Landscaping and Chauffeuring​](/9)
+    - [“Men’s Labor” Landscaping and Chauffeuring​](/9)
     - [Rest and Respite ](/10)
     
 Glenmont, pictured above has been one of the premiere estates of Llewellyn Park, a private community in West Orange, New Jersey since 1882. In 1886, the Glenmont estate became the home of Thomas and Mina Edison. For the next six decades, domestic workers, including cooks, chambermaids, parlor maids, laundresses, housemen, gardeners, and general servants served as support staff to Mina Edison in the maintenance of the home. ​
@@ -28,58 +28,58 @@ Read the Introduction
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_01.png)
 
-Menlo Park, New Jersey, 12 July 1885
+Section 1
 
 #### “Back of the House,” Domestic Work and Navigating the Glenmont Estate​ {href=2}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
 
-Menlo Park, New Jersey, 13 July 1885
+Section 2
 
 #### Maintaining the Second Floor {href=3}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_03.png)
 
-Woodside Villa, Boston Harbor, 14 July, 1885
+Section 3
 
 #### Child Care & Intimacy Work {href=4}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
 
-Woodside Villa, Boston Harbor, 15 July, 1885
+Section 4
 
 #### Laundry {href=5}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_05.png)
 
-Woodside Villa, Boston Harbor, 16 July, 1885
+Section 5
 
 #### Preparing for Guests​ {href=6}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_06.png)
 
-Woodside Villa, Boston Harbor, 17 July, 1885
+Section 6
 
 #### Staff Organization and Work Beyond Glenmont​ {href=7}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_07.png)
 
-Woodside Villa, Boston Harbor, 18 July, 1885
+Section 7
 
 #### Special Guests and Special Occasions​ {href=8}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_08.png)
 
-Woodside Villa, Boston Harbor, 19 July, 1885
+Section 8
 
-#### ”Men’s Labor” Landscaping and Chauffeuring ​{href=9}
+#### “Men’s Labor” Landscaping and Chauffeuring ​{href=9}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_09.png)
 
-Woodside Villa, Boston Harbor, 20 July, 1885
+Section 9
 
 #### Rest and Respite {href=10}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_10.png)
 
-Woodside Villa, Boston Harbor, 21 July, 1885
+Section 10
