@@ -1,18 +1,18 @@
-.ve-header "Diary Entry #5" https://edisondigital.rutgers.edu/iiif/MA019 "Woodwide Villa, Boston Harbor, July 16, 1885" pct:30,30,60,40 center sticky
+.ve-header "The Working Estate: Routine and Domestic Labor at Glenmont,1886–1947​" https://edisondigital.rutgers.edu/iiif/MA036 "July 1885" pct:30,30,60,40 center sticky
     - [Home](/)
     - [Introduction](/introduction)
-    - [Diary Entry 1](/1)
-    - [Diary Entry 2](/2)
-    - [Diary Entry 3](/3)
-    - [Diary Entry 4](/4)
-    - [Diary Entry 5](/5)
-    - [Diary Entry 6](/6)
-    - [Diary Entry 7](/7)
-    - [Diary Entry 8](/8)
-    - [Diary Entry 9](/9)
-    - [Diary Entry 10](/10)
+    - [Glenmont, the Working Estate](/1)
+    - [“Back of the House,” Domestic Work and Navigating the Glenmont Estate​](/2)
+    - [Maintaining the Second Floor](/3)
+    - [Child Care & Intimacy Work](/4)
+    - [Laundry](/5)
+    - [Preparing for Guests​](/6)
+    - [Staff Organization and Work Beyond Glenmont​](/7)
+    - [Special Guests and Special Occasions​](/8)
+    - [“Men’s Labor” Landscaping and Chauffeuring​](/9)
+    - [Rest and Respite ](/10)
 
-# Page 1
+# Section 5
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA019 left
 
