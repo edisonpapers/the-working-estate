@@ -32,7 +32,7 @@ Section 1
 
 #### “Back of the House,” Domestic Work and Navigating the Glenmont Estate​ {href=2}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
+![](unseen/frontpage/section2card.jpg)
 
 Section 2
 
