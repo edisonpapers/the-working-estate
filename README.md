@@ -80,7 +80,7 @@ Woodside Villa, Boston Harbor, 17 July, 1885
 
 Woodside Villa, Boston Harbor, 18 July, 1885
 
-#### Special Guests and Special Occasions​{href=8}
+#### Special Guests and Special Occasions​ {href=8}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_08.png)
 
