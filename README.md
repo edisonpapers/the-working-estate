@@ -72,7 +72,7 @@ Section 7
 
 Section 8
 
-#### "Men’s Labor" Landscaping and Chauffeuring​ {href=9}
+#### “Men’s Labor” Landscaping and Chauffeuring​ {href=9}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_09.png)
 
