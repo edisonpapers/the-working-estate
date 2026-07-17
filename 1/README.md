@@ -14,49 +14,267 @@
 
 # Section 1: Glenmont, the Working Estate
 
-.ve-media https://edisondigital.rutgers.edu/iiif/MA001 left
+# Glenmont, the Working Estate
 
-<div style="text-align: right"><h4>Menlo Park N.J.<br>Sunday July 12 1885</h4></div>
+`image images/glenmont-estate-plan.jpg .left`
 
-Awakened at 5:15 am. My eyes were embarassed by the sunbeams—turned my back to them and tried to take another dip into oblivion succeeded awakened at 7 a.m. thought of ==Mina=={Q22087338}, ==Miss Daisy=={description="Grace 'Daisy' Gaston (1859– 1940), daughter of John M. Gaston, a prominent Indianapolis physician, was Ezra and Lillian Gilliland’s guest at their rented summer home during Edison’s earlier visit from late June to early July. She was still there, perhaps according to a plan to introduce Edison to eligible young women, when he returned on July 14."}, and ==Mamma G=={description="Lillian Gilliland, the daughter of Sidney Johnson, a carpenter and machinist of Madison, Ind., became Ezra Gilliland’s secondwife in 1880. According to Edison’s daughter Marion, she played a central role in introducing Edison to eligible young women.Two of them were Daisy Gaston and Louise Igoe, both of Indianapolis."} put all 3 in my mental kaledescope to obtain a ==new combination=={description="Francis Galton pioneered composite photography, the technique of superimposing portrait photographs of individuals in order to draw out common physical traits (cf. Doc. 2852). Galton thought these common features might be markers of hereditary psychological traits or susceptibility to certain diseases. He therefore began making composite portraits of criminals and later made them of people suffering from various physical and mental illnesses. Galton published works on the making and interpretation of these portraits in 1878 and 1879."} a la ==Galton=={Q191026}. took Mina as a basis, tried to improve her beauty by discarding and adding certain features borrowed from Daisy and Mamma G. a sort of ==Raphaelized beauty=={Q5597}, got into it too deep, mind flew away and I went to sleep again. Awakened at 8:15 am. Powerful itching of my head, lots of white dry dandruff what is this d-mnable material. Perhaps it is the dust from the dry literary matter I've crowded into my noddle lately Its nomadic. gets all over my coat, must read about it in the Encyclopedia. Smoking too much makes me nervous must lasso my natural tendency to acquire such habits holding heavy cigar constantly in my mouth has deformed my upper lip, it has sort of a Havanna curl. Arose at 9 oclock came down stairs expecting twas too late for breakfast twas'nt. could'nt eat much, nerves of stomach too nicotinny. The roots of tobacco plants must go clear through to hell. Satans principal agent ==Dyspepsia=={Q653971}
+*Glenmont estate plan showing seven landscape zones. Source: [Cultural Landscape Inventory: Glenmont Estate](https://npshistory.com/publications/edis/cli-glenmont-estate.pdf), p. 76.*
 
-# Page 2
+The Glenmont estate, located near the intersection of Park Way and Honeysuckle Avenue, was part of Llewellyn Park, America’s first gated community. Soon after purchasing the estate for Mina Edison, Thomas Edison acquired nearby land to build his West Orange laboratory, which was operational by 1887, transforming the area into a busy industrial hub.
 
-.ve-media https://edisondigital.rutgers.edu/iiif/MA001 seq=2 left
+`image images/west-orange-robinson-atlas-1890.jpg .right`
 
-must have charge of this branch of the vegitable kingdom. It has just occured to me that the brain may digest certain portions of the food, say the etherial part, as well as the stomach perhaps dandruff is the excreta of the mind—the quantity of this material being directly proportional to the amount of reading one indulges in. A book on German metaphysics would thus easily ruin a dress suit. After breakfast start reading ==Hawthorne's English Note Book=={description="Edison may have acquired the 1880 edition of Passages from the English Note-Books of Nathaniel Hawthorne, which contained two volumes in one. It is also possible that he was reading the volume containing the Passages that was included in the edition of The Works of Nathaniel Hawthorne, published between 1882 and 1884, that was edited by George Parsons Lathrop and his wife Rose Hawthorne."} dont think much of it. perhaps Im a literary barbarian and am not eyet educated up to the point of appreciating fine writing 90 per cent of his book is descriptive of old churches and graveyards and coronors He and ==Geo Selwyn=={Q427554} ought to have been appointed perpetual coroners of London. Two fine things in the book were these. ==Hawthorne=={Q69339} shewing to little ==Rose Hawthorne=={Q6917390} a big live lobster told her it was a very ugly thing and would bite everybody, whereupon she asked "if the first one God made, bit him" again "Ghostland is beyond the jurisdiction of veracity" I think freckles on the skin are due to some salt of Iron, sunlight brings them out by reducing them from high to low state of oxidation perhaps with a powerful magnet applied for some time, and then with proper chemicals, these mud holes of beauty might be removed. Dot is
+*TAE West Orange. Robinson, Atlas of Essex County, New Jersey, 1890.*
 
-# Page 3
+The property included numerous outbuildings, a greenhouse, a small farm, the Gardener’s Cottage, the Potting Shed, the Garage, and extensive landscaped grounds. The Gardener’s Cottage was added in 1908, and construction on the Potting Shed began in 1906.
 
-.ve-media https://edisondigital.rutgers.edu/iiif/MA001 seq=3 left
+<!-- Alt text: Map of Glenmont Estate labeling the Edison Home, greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, Edison gravesite, Park Way, Honeysuckle Road, and areas closed to the public. -->
 
-very busy cleaning the abode of our deaf and dumb parrot she has fed it tons of edibles, and never got a sound out of it. This bird has the taciturnity of a statue, and the dirt producing capacity of a drove of buffalo. This is by far the nicest day of this season, neither too hot or too cold. it blooms on the apex of perfection an Edenday Good day for an angels picnic. They could lunch on the smell of flowers and new mown hay, drink the moisture of the air, and dance to the hum of bees. Fancy the ==Soul of Plato=={Q5493077} astride of a butterfly, riding around ==Menlo Park=={Q20657326} with a lunch basket. Nature is bound to smile somehow. Holzer has a little dog which just came on the veranda. The face of this dog was a dismal as a ==bust of=={description="Edison almost certainly referred to Thomas Parsons’s well-known poem, “On a Bust of Dante.” The poem appeared as a preface to Parsons’s translation of the first ten cantos of the “Inferno,” which he published anonymously in 1843 along with an engraving of a bust of Dante. In the poem, Parsons remarks, “How stern of lineament, how grim / The father was of Tuscan song” and describes the bust in these melancholy terms: “The cheeks with fast and sorrow thin,/ The rigid front, almost morose.”"} ==Dante=={Q1067}, but the dog wagged its tail continuously This is evidently the way a dog laughs I wonder if dogs ever go up to flowers and smell them I think not flowers were never intended for dogs, and perhaps only incidentally for man, evidently ==Darwin=={Q1035} has it right They make themselves pretty to attract the insect world who are the transportation agents of their pollen, pollen freight via Bee line There is a bumblebees nest somewhere near this veranda, several times one came near me some little information (acquired experimentally) I obtained when a
+`image images/glenmont-estate-map-nps.jpg .right`
 
-# Page 4
+*Glenmont map showing the Edison Home and surrounding estate features, including the greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, and Edison gravesite. Source: [National Park Service, “Glenmont”](https://www.nps.gov/npgallery/GetAsset/3f6e2c17-d060-48a5-a479-f09a9ad48553).*
 
-.ve-media https://edisondigital.rutgers.edu/iiif/MA001 seq=4 left
+The main house at Glenmont Estate contains twenty-nine principal rooms, not including closets and secondary service spaces. The third floor contained the servants’ bedrooms, the former children’s nursery, extra guest bedrooms, and attic space. The second floor contained the family’s bedrooms, bathrooms, and living spaces. The first floor included the main entry, reception spaces, staircase, and formal rooms for hosting guests. The cellar contained the boiler room, coal rooms, store room, pump room, wood room, and ash room.
 
-small boy causes me to lose all delight in watching the navigation of this armed flower burglar. Had dinner at 3 p.m. ruins of a chicken, rice pudding I eat too quick at 4 oclock ==Dot=={description="Marion Estelle Edison (1873-1965) was Edison's oldest child with his first wife Mary. Nicknamed 'Dot,' she was Edison's constant companion until he married Mina Miller in February 1886. After attending the Bradford Academy in Haverhill, Massachusetts in 1888, she left school to join her step-aunts Mary Emily Miller and Grace Miller in Paris. She came back to the United States in 1892 but returned to Europe the following year. She married Oscar Oeser, a German army officer, on 1 October 1895 and lived in Germany for the next thirty years until the marriage deteriorate during World War I. She returned to the United States in 1925."} came around with her horse "Colonel" and took me out riding beautiful roads saw 10 acre lot full cultivated red raspberries, "A burying ground" so to speak.got this execrable pun off on Dot Dot says she is going to write a novel, already started on she has the judgement of a girl of 16 although only 12 We passed through the town of ==Metuchen=={Q1021527}, this town was named after an Indian chief, they called him ==Metuchen the chief=={description="According to a “History of Metuchen” compiled by the Federal Writers’ Project of the Works Project Administration of the State Of New Jersey, the name of the village of Metuchen is commonly thought to be named after a chief of the Raritan Indians, a subgroup of the Lenape. An Indian deed of 1677 gives the name as Mateckshoning. Other spellings include Matouchin, Metuchin, Matousheon, Metoachen."} of the rolling lands, the country being undulating. Dot laughed heartily when I told her about a church being a heavenly fire escape. Returned from drive at 5 pm commenced ==read short sketches of=={description="Edison was likely reading Edward Mason&#39;s Personal Traits of British Authors (1884), which includes sketches of Thomas Babington Macauley, Charles Dickens, Sidney Smith, and Charlotte Brontë."} life's ==Macauley=={Q315989} ==Sidney Smith=={Q6182166}, ==Dickens=={Q5686} & ==Charlotte Bronte=={Q127332}. Macauley when only 4 years ago omnivorous reader, used book language in his childish conversation. when 5 years old, lady spilled some hot coffee on his legs, after a while she asked him if he was better he replied "Madam the agony has abated" Macauleys mother must have built his mind several years before his body. Sidney Smiths flashes of wit are perfect to call them chesnuts would be literary blasphemy
+<!-- Alt text: Black-and-white exterior photograph of Glenmont showing the side of the house and driveway entrance. The service wing is visible on the right side of the house. The servant entrance appears in the enclosed section with the double corner window. -->
 
-# Page 5
+`image images/glenmont-service-wing-exterior.jpg .right`
 
-.ve-media https://edisondigital.rutgers.edu/iiif/MA001 seq=5 left
+[![Black-and-white exterior photograph of Glenmont showing the side of the house and driveway entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window.](https://npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg)](https://npgallery.nps.gov/EDIS/AssetDetail/aefd3388-0467-4304-ac03-512377df1d18)
 
-They are wandering jewlets to wander forever in the printers world Dont like ==Dickens=={Q5686} dont know why I'l stock my literary cellar with his works later. ==Charlotte Bronte=={Q127332} was like ==DeQuincy=={Q317160}, what a nice married couple they would have been I must read ==Jane Eyre=={Q182961}. ==—played a little on the piano=={description="Edison had some piano instruction as a child and, during his married life with Mary Stilwell Edison, kept an instrument in their homes. Daughter Marion Edison remembered him playing self- composed tunes during her childhood."} its badly out of tune two keys have lost their voice. Dot has just read to me outlines of her proposed novel, the basis seems to be a marriage under duress I told her that in case of a marriage to put in bucketfulls of misery. This would make it realistic. speaking of realism in painting etc ==Steele Mackaye=={Q1668569} at a dinner given to ==H H Porter,=={description="Henry Hobart Porter (1829– 1904) was the commissioner of charities and corrections for New York City from 1881 until 1896."} ==Wm Winter=={Q8020478} and myself told us of a difinition of modern realism given by some frenchman whose name I have forgotten. "Realism, a dirty long haired painter sitting on the head of a bust of ==Shakespeare=={Q692} painting a pair of old boots covered with dung" The bell rings for supper I goe Sardines the principal attraction on seeing them was attacked by a stroke of vivid memory of some sardines I eat last winter that caused a rebellion in the labyrinth of my stomach could scarcely swallow them today
+*Glenmont, exterior, side and driveway to entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection.*
 
-# Page 6
+The service wing, in what will be called the back of the house, consisted of the kitchen, pantry, and servants’ dining room. This section of the home also had a back staircase that domestic staff used to access the other floors of the house.
 
-.ve-media https://edisondigital.rutgers.edu/iiif/MA001 seq=6 left
+[![Portrait of Mina Edison and Thomas Edison seated together in 1908; Mina appears on the left wearing pearls, and Thomas Edison appears on the right in formal dress.](https://npgallery.nps.gov/EDIS/GetAsset/a5354a92f2e84fb18a699d0b3d2bac84/proxymdres.jpg)](https://npgallery.nps.gov/EDIS/AssetDetail/a5354a92-f2e8-4fb1-8a69-9d0b3d2bac84)
 
-They nearly did the "return ball" act. After supper Dot pitched a ball to me several dozen times first I ever tried to catch. It was a hard as ==Nero's=={Q1413} heart nearly broke my baby finger gave it up learned Dot and ==Maggie=={description="Margaret Stilwell (b. 1871?), the younger sister of Edison’s first wife."} how to play ==Duck on the rock=={Q3040868} They both thought it great fun, and this is sunday My conscience seems to be oblivious of sunday it must be incrusted with a sort of irreligious tartar. If I was not so deaf I might go to church and get it taken off or at least loosened ==peccavi=={description="Edison likely meant 'peccavi,' Latin for 'I have sinned.' The Latin word, which appears in the vulgate edition of the Bible, came into popular use after 1844, when the British humor magazine Punch published a notice suggesting that the British general Sir Charles Napier had telegraphed the one- word message 'peccavi' to his superior after having conquered the Indian province of Sindh without having had permission to do so. Although apocryphal, the punning allusion to both 'I have sinned' and 'I have Sindh' became a well- known example of succinctness and wit."} I will read the new version of the bible ==Holzer=={description="William Holzer (1844-1910) was born in Germany and worked for Edison as a glassblower at the Menlo Park laboratory beginning in January 1880. The following year, he married Alice Stilwell, the sister of Edisons wife Mary. He worked as superintendent of the glass department of the Edison Lamp Co. and its successors through at least the mid-1890s."} is going to use the old laboratory for the purpose of hatching chickens artificially by an electric incubator. He is very enthusiastic gave me full details he is a very patient and careful experimenter think he will succeed everything succeeded in that old laboratory Just think electricity employed to cheat a poor hen out of the pleasures of maternity Machine born chickens What is home without a mother I suggested to H that he vaccinate his hens with ==chicken pox virus=={description="Edison was likely referring to sore-head disease in chickens, which though called chicken pox is unrelated to the varicella virus that causes chicken pox in humans. Sore-head chicken pox or contagious epithelioma killed up to ninety percent of the chicks in an infected flock, and it had reached epizootic proportions in the United States by the late nineteenth century. The typical veterinary response at this time was to treat the sores locally with iodine or silver nitrate, which proved ineffective. Edison’s hope for a vaccine that would protect yet-unborn generations is consistent with a tradition of scientific belief in the inheritance of acquired characteristics, a belief exemplified in the early nineteenth-century theorizing of Jean Baptiste Lamarck, the French botanist and zoologist. It was only in 1910 that German bacteriologist Paul Manteufel developed a vaccine for sore- head disease."} then the eggs would have their embryo heriditarily innoculated & none of the chickens would have the disease, for economys sake he could start with one hen and rooster. He being
+*Portrait of Mina Edison and Thomas Edison, 1908. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Source: [NPGallery, “Portrait of Mina Edison and Thomas Edison”](https://npgallery.nps.gov/EDIS/AssetDetail/a5354a92-f2e8-4fb1-8a69-9d0b3d2bac84).*
 
-# Page 7
+<!-- Alt text: Portrait of Mina Edison and Thomas Edison seated together in 1908; Mina appears on the left wearing pearls, and Thomas Edison appears on the right in formal dress. -->
 
-.ve-media https://edisondigital.rutgers.edu/iiif/MA001 seq=7 left
+Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oak Place, Mina’s childhood home, in Akron, Ohio. Thomas, who was thirty-nine, had lost his first wife, Mary Stilwell, two years prior. Mina, who was twenty, had recently completed her education at Miss Abby H. Johnson’s Home and Day School for Young Ladies in Boston. As a wedding gift, Thomas asked Mina to choose between a home in New York City and the former Pedder estate in Llewellyn Park, New Jersey. She chose the latter, and the couple moved into their new home in April of the same year.
 
-a scientific man with no farm experience I explained the necessity of having a rooster, he saw the force of this suggestion at once. The sun has left us on time, am going to read from the ==encyclopedia Brittanica=={Q455} to steady my nerves and go to bed early. I will shut my eyes and imagine a terraced abyss, each terrace occupied by a beautiful maiden to the first I will deliver my mind and they will pass it down down to the uttermost depths of silence and oblivion. Went to bed worked my imagination for a supply of maidens, only saw Mina Daisy & Mamma Scheme busted sleep.
+## The Edison Household at Glenmont
 
-# 
-----------
+{: .wrap}
 
-<h4 style="text-align: center;"><a href="/introduction">View Introduction</a> | <a href="/2">View Next Entry</a></h3> 
+`image src=https://npgallery.nps.gov/EDIS/GetAsset/4c49ee07729846269e9a1be69d12fbdf/proxymdres.jpg .right alt="Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889." caption="Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth, December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
+
+[Source: NPGallery, “Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at home of Mr. Mamroth.”](https://npgallery.nps.gov/EDIS/AssetDetail/4c49ee07-7298-4626-9e9a-1be69d12fbdf)
+
+With her marriage to Thomas Edison, Mina entered a household that already included his three children from his first marriage: Marion, Thomas Jr., and William, who were roughly twelve, ten, and eight years old. Over the next twelve years, the household continued to grow with the births of Madeleine in 1888, Charles in 1890, and Theodore in 1898.
+
+## Mina Edison and the Edison Children
+
+### Mina Edison, Domestic Education, and Household Management
+
+Mina’s preparation for the role of mother and home management began with the example set by her mother, Mary Valinda, and continued with her time at a Boston finishing school. Her experience at the Chautauqua Assembly, the educational and religious institution co-founded by her father, exposed her to Mrs. Emma P. Ewing, who gave participants practical training in kitchen work, hygiene, food testing, breadmaking, sauces, dressings, and refined meal service. These experiences helped shape the way Mina approached domestic management: as a disciplined, intellectualized, and socially significant form of labor.
+
+{: .cards}
+
+### Mina Edison with infant, possibly Madeleine Edison
+
+[Source: NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/e2f89d6d-da07-464d-b48a-a3d9732a539e)
+
+![Mina Edison holding an infant, possibly Madeleine Edison.](https://npgallery.nps.gov/EDIS/GetAsset/e2f89d6dda07464db48aa3d9732a539e/proxymdres.jpg)
+
+*Mina Edison holding infant, possibly Madeleine Edison, circa 1880s. Photograph by Benjamin Falk, 949 Broadway, New York. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
+
+### Madeleine Edison, Mina Edison, and Charles Edison
+
+[Source: NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/10918e7b-91fd-485c-8924-944135cb0b1c)
+
+![Madeleine Edison, Mina Edison, and Charles Edison.](https://npgallery.nps.gov/EDIS/GetAsset/10918e7b91fd485c8924944135cb0b1c/proxymdres.jpg)
+
+*Madeleine Edison, Mina Edison, and Charles Edison, circa 1895. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
+
+### Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others
+
+[Source: NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/94599a3a-8a6d-46d8-899a-c3be7ee1dbd6)
+
+![Group portrait of Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others.](https://npgallery.nps.gov/EDIS/GetAsset/94599a3a8a6d46d8899ac3be7ee1dbd6/original.jpg)
+
+*Portrait of Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others, circa 1910. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
+
+<!-- Desired Juncture behavior: Convert the following three NPGallery images into a slideshow/carousel or multi-image viewer if supported. If not, display as cards or a grouped image sequence. -->
+
+### Glenmont: A Representation of the Edison Legacy
+{: .wrap}
+
+`image src=images/glenmont-edison-legacy-sketch.jpg .right alt="Black-and-white illustrated composite of Glenmont interiors, including views of a room with a fireplace, an interior hall or stair area, and a larger furnished room. The image is labeled Interior Sketches from the Residence of Thos. Edison, Esq., Orange, N.J." caption="Interior sketches from the residence of Thomas Edison, Glenmont, Orange, New Jersey. Image credit: National Park Service, Thomas Edison National Historical Park. Source: [The House at Glenmont, Volume 2: Furnishing Plan](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf#page=251), pp. 252–256."`
+
+The Glenmont Estate was multifunctional: it was a private residence, a semi-public entertainment space, and a symbol of the Edison family's socio-economic status. The domestic labor of the women and men who lived on the estate were essential to its functioning as a multipurpose property, especially in the years before semi-public and private gatherings were delegated to hotels and lodges, restaurants, and other spaces in the hospitality realm, as a public-private space of a family.  
+Over the sixty years of their life at Glenmont  a myriad of societal changes, including immigration, demographic shifts, and women's labor, shaped the lives of the Edison family. As one of foremost American inventors, the experience of domestic workers at Glenmont was shaped by electrification, unique requirements in hosting, and geographic determinants, such as proximity to New York City and Ellis Island. 
+
+### Mina Edison as “Home Executive”
+
+#### Household Administration at Glenmont
+{: .wrap}
+
+`image src=https://npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg .right alt="Portrait of Mina Edison seated in the Conservatory at Glenmont." caption="Portrait of Mina Edison, seated in the Conservatory at Glenmont. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
+
+[Source](https://npgallery.nps.gov/EDIS/AssetDetail/2429bd7f-0836-4833-a083-e570482f5358) “Portrait of Mina Edison seated in the Conservatory at Glenmont. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain. NPGallery Asset ID: 2429bd7f08364833a083e570482f5358”
+
+Mina Miller Edison’s role at Glenmont was central to the functioning of the Edison household. While Edison remained absorbed in his laboratory work and scientific enterprises, Mina assumed responsibility for the domestic and administrative management of Glenmont and, later, Seminole Lodge in Fort Myers, Florida. Her work included planning meals, supervising domestic employees, ordering supplies, arranging repairs and improvements, reviewing household accounts, and signing checks.
+
+#### The Meaning of “Home Executive”
+{: .wrap}
+
+`image src=https://npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg .left alt="Mina Edison standing outside at Glenmont." caption="Mina Edison standing outside at Glenmont, circa 1935. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
+
+[Source](https://npgallery.nps.gov/EDIS/AssetDetail/7fa0d6b3-4220-485c-bcd7-3ad2eaeeeb98) "Mina Edison standing outside at Glenmont, circa 1935. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain. NPGallery Asset ID: 7fa0d6b34220485cbcd73ad2eaeeeb98."
+
+This role aligned with late nineteenth-century expectations for upper-middle-class wives, but Mina also understood household management as skilled executive labor. Reflecting on the inadequacy of the term “housewife,” she argued that a married woman should instead be understood as a “home executive,” a phrase that better captured the managerial authority and constructive work required to run a household of this scale.
+
+## Mina Edison and the Organization of Household Labor
+
+### Coordinating the Working Household
+
+Mina Edison’s work as “home executive” required more than supervising servants inside Glenmont. She coordinated people, rooms, objects, schedules, and properties across a wider Edison family network. A 1924 letter from Monhegan Island to Madeleine and John Sloane shows this clearly. Mina described a group effort to prepare their home for winter, naming family members, household employees, gardeners, servants, and outside tradesmen who had worked together to clean, organize, repair, and restore the house.
+
+The letter is valuable because it lists people by task. Lena and Mina handled drapes and linen closets. Florence, Mallory, and Mina worked with books and papers. Henry managed the china closet. Mary, Lena, and Annie worked in the kitchen. Courtney, Fabious, and Mallory handled the cellar. Atkinson and his son worked in the gardens. Uncle John oversaw the garage and general supervision, while specialists such as a carpenter, plumber, and upholsterer handled skilled repairs.
+
+This document shows that domestic labor was not confined to a single room or even a single property. Although many of these workers were primarily associated with Glenmont, their labor could extend to other Edison family homes or properties connected to Mina’s relatives. The household staff formed part of a flexible labor network, called upon when rooms needed to be cleaned, seasonal transitions prepared, or family members settled into a house.
+
+<iframe src="https://edisondigital.rutgers.edu/uv.html#?manifest=https://edisondigital.rutgers.edu/iiif/2/X400OAH/manifest&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-434,-210,1567,1524&r=0" width="560" height="420" allowfullscreen frameborder="0" title="[X400OAH], Letter from Mina Miller Edison to Madeleine Edison Sloane and John Eyre Sloane, September 9, 1924"></iframe>
+
+*Mina Miller Edison to Madeleine Edison Sloane and John Eyre Sloane, September 9, 1924. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: X400OAH. Written from Monhegan Island, Maine, the letter describes the coordinated labor of family members, household staff, gardeners, and tradesmen preparing a family home for winter.*
+
+[Source: Thomas A. Edison Papers Digital Edition, Document X400OAH](https://edisondigital.rutgers.edu/document/X400OAH)
+
+### Transcription excerpt
+
+Monhegan Island  
+Maine, Sept. 9, ’24
+
+My darling Madeleine & John—
+
+Welcome home!!!
+
+Dears, please know that everything you find in your homecoming has been done by loving thoughts and willing hands and hearts.
+
+Uncle John Aunt Florence—your keybearer and guardian.  
+Atkinson—our Fabulous (?)  
+Mallory, Courtney, Lena.  
+Mary & Bessie—hastening me away but helped in the end, I think—  
+Annie McCarthy & Henry—  
+Susie the carpenter, Hayes the plumber,  
+Lucian, the upholsterer—home  
+all banded together and gave the—  
+its winter house cleaning and doing in five days what would take them and four maids with the family at home months.
+
+They were not left to do anything by themselves—but it was all supervised, so nothing has been taken out but what was put back.
+
+Lena & I the drapes & linen closets—  
+Florence, Mallory & I the books & papers—  
+Henry the china closet—  
+Mary & Lena & Annie kitchen—  
+Courtney, Fabious Mallory cellar—  
+Atkinson & son gardens.  
+Uncle John, garage and general supervision—Mr. refrigerator, garage pipes in cellar, etc.
+
+Everyone interested to have you settled for the winter as far as house cleaning went, their taking off a tray (?) we all hope, from your backs.
+
+Please don’t scold us but anything you find wrong discard and put back as you prefer it. Anything you find right and to your liking enjoy and let it make you happy and comfortable.
+
+With love and kisses and a  
+God bless you.
+
+Devotedly,  
+Mother.
+
+### People Named in the Letter
+
+This letter names a working network rather than a simple household staff list. Some people were Edison family members who supervised the work. Others were long-term servants, gardeners, kitchen workers, housemen, or outside tradespeople brought in for specialized repairs. The range of tasks—linen closets, drapes, china, kitchen work, cellar work, gardens, garage, plumbing, refrigeration, and upholstery—shows how Mina Edison coordinated domestic labor across rooms, objects, and properties.
+
+| Name in letter | Full name / identification where possible | Role or job title | Work named in the letter | Confidence |
+|---|---|---|---|---|
+| Uncle John | John V. Miller | Mina Edison’s brother; executive at Thomas A. Edison, Inc.; household/property supervisor | Garage and general supervision; pipes, refrigerator, cellar matters | High |
+| Aunt Florence | Florence Miller, likely connected to John V. Miller | Family member; “keybearer and guardian” | Oversight of the house; books and papers with Mina and Malloy | Medium |
+| Atkinson | George Atkinson | Gardener / head gardener | Gardens, with his son | High |
+| Atkinson’s son | Unidentified son of George Atkinson | Garden assistant or family helper | Gardens | Medium |
+| Mallory / Malloy | Peter Malloy | Houseman / estate servant | Books and papers; cellar work | High, spelling varies |
+| Courtney | Unidentified | Likely household or estate worker | Cellar work | Low |
+| Lena | Helena “Lena” McCarthy Doyle Phillips | Longtime maid, nurse/child-care worker, trusted household servant | Drapes, linen closets, kitchen work | High |
+| Mary | Likely Mary Flaherty | Cook / kitchen worker | Kitchen work | Medium-high |
+| Bessie | Full name not yet confirmed | Household worker / maid or general servant | Helped with housecleaning and household preparation | Medium |
+| Annie McCarthy | Full identification not yet confirmed | Household worker, likely kitchen or maid work | Kitchen work | Medium |
+| Henry | Henry Horsey | Butler | China closet | High |
+| Smith | Full name not yet confirmed | Carpenter | Carpentry / repairs | Medium |
+| Hayes | Full name not yet confirmed | Plumber | Plumbing work | Medium |
+| Lucian | Full name not yet confirmed | Upholsterer | Upholstery / furnishings | Medium |
+| Fabious / Fabio? | Possibly Fabio Definis, but not yet verified | Unclear; possibly estate worker or laborer | Cellar work with Courtney and Malloy | Low |
+
+### Staff Mentioned Across This Project
+
+The Monhegan letter captures one moment of coordinated household labor, but many other employees appear elsewhere in Glenmont records. The following names are not all mentioned in that letter, but they help show the range of labor that sustained the Edison household over time. This list can later become a set of internal links to employee highlights.
+
+| Name | Role / job title | Where this person fits in the project | Notes |
+|---|---|---|---|
+| Queenie Adams | Cook | Kitchen; Glenmont and Seminole Lodge; race and domestic labor | Strong employee highlight |
+| Mary Flaherty | Cook | Kitchen labor | Full title comes from project notes; employee list names her but occupation field is blank |
+| Mary McMahon / McMann | Cook | Kitchen labor; wages | Listed as cook in 1915 |
+| Marion Renard | Cook | Kitchen labor; immigrant women workers | Listed as cook, 1910 |
+| Marie Larrey | Cook | Kitchen labor | Listed as cook, 1900–1908 |
+| Julia Burke | Chambermaid | Second floor; guest rooms; bedroom labor | Strong employee highlight |
+| Bridget Mary Norman | Chambermaid | Second floor; guest rooms; bedroom labor | Listed as chambermaid, 1903/1904–1909 |
+| Jennie Everson / Evanson | Parlor maid | Welcoming guests; reception hall; drawing room | Strong employee highlight |
+| Johanna | Waitress | Dining room; table service | Surname not yet confirmed |
+| Helena “Lena” McCarthy Doyle Phillips | Maid / longtime household servant | Child care; intimacy work; linens; staff mobility | Already central to project |
+| Mary Jane Little / Lyttle | Maid | Household maintenance | Listed as maid, 1905/1910 |
+| Anna / Annie Tagg | Maid | Beds, mending, upstairs work | Appears in your 1927 housekeeping letter context |
+| Martha Michel / Michael | Personal maid; verify against employee list | Second floor; personal service; sewing/ironing | Your project notes identify Martha Michel as Mina’s personal maid; employee list may read “Marth Michael” and needs checking |
+| Kate Hoefferman | Seamstress | Sewing, mending, textile care | Listed as seamstress, 1897 |
+| C. S. Maghee | Sewing | Sewing and textile care | Useful for laundry/sewing-room discussion |
+| Anna Erickson | Laundress | Laundry | Listed as laundress, 1899 |
+| Marguerite Drury | Laundress / extra help | Laundry; casual labor | Strong for part-time labor |
+| Teresa Conroy | Laundry | Laundry; family labor networks | Listed as laundry, 1901 |
+| Mrs. John Purdue | Laundress / laundry worker | Laundry; day labor | Good for wages/day labor discussion |
+| Hulda H. Johnson | Outside special help | Hosting; extra waitresses | Strong for “labor on call” |
+| J. A. Nixon | Extra waitress | Hosting; special occasions | Useful with Hulda H. Johnson |
+| Paul Paulson | Extra waitress | Hosting; special occasions | Double-check gender/name, but listed as extra waitress |
+| Veronica Zelesky | Extra help / domestic employment | Hosting or extra labor | Needs verification |
+
+
+### Instability and Continuity: Hiring and Keeping Staff
+
+As the above table shows with terms such as "extra waitress," Mina's staff consisted of temporary staff, short term staff, and high turnover. A 1910 letter from Mina Edison to Mary Valinda Miller and Grace Miller shows the instability and constant management behind Glenmont’s staff. Mina wrote that she had to go into town “to see Maids” and that she was “changing butler and house-man,” making the house feel “a little unsettled.” The letter is useful because it captures household management in motion: finding employees, replacing workers, and reorganizing roles while maintaining the expected order of the home. However, there are many staff members who stayed on at Glenmont for many years. Some Glenmont employees remained connected to the Edison household for many years. 
+
+Helena “Lena” McCarthy Doyle Phillips served from the early 1890s into the 1920s, moving between child care, household service, and seasonal work at Seminole Lodge. Henry Horsey was remembered as the family’s butler “for many years,” while George Atkinson served as gardener from 1921 to 1936. Their long service suggests that although domestic work could be unstable, Glenmont also depended on trusted workers whose familiarity with the house, family, and estate made them difficult to replace.
+
+[Source: Thomas A. Edison Papers Digital Edition, Document X104FBW](https://edisondigital.rutgers.edu/document/X104FBW)
+
+| Name | Role / job title | Where this person fits in the project | Notes |
+|---|---|---|---|
+| Michael Doyle | Gardener / grounds worker | Grounds maintenance; Seminole Lodge and Glenmont | Strong employee highlight |
+| George Atkinson | Gardener / greenhouse | Grounds maintenance; rose garden; Mina’s horticultural work | Already in Monhegan letter, but important enough to keep in master directory |
+| William Reid | Gardener | Grounds maintenance | Listed as gardener |
+| Fred Peterson | Garden worker | Grounds maintenance | Listed as garden, 1931 |
+| Frank Sarfen | Greenhouse worker | Greenhouse and grounds | Listed as greenhouse, 1906 |
+| Frank Marino | Garden worker | Grounds maintenance | Listed as garden, 1919 |
+| Ernest Walter / Walters | Gardener / estate worker, verify | Grounds maintenance | Your project notes discuss Ernest Walters near greenhouse; employee list has Ernest Walter, 1914 |
+| Peter Malloy | Houseman | Infrastructure, cellar, storage, custody | Already in Monhegan letter, but important for houseman section |
+| William R. Ashford | Glenmont night watchman | Security; labor beyond domestic rooms | Listed as “Glenmont Night W...” |
+| Bernard Heslin | Security | Security; estate oversight | Listed as security, 1908–1940 |
+| John Louis Ponto | Watchman; also battery factory | Security / Edison work networks | Useful for overlap between estate and Edison industries |
+| William Minor | Butler | Dining room; service hierarchy | Listed as butler, 1905–1910 |
+| Jean Larrey | Butler | Dining room; service hierarchy | Listed as butler, 1900–1908 |
+| Waldo / Walter Schaar | Butler | Dining room; service hierarchy | Listed as butler |
+| Henry Horsey | Butler | Dining room; special occasions; wages | Already in Monhegan letter, but central to project |
+| Frank Mason | Stablehand | Stable; transportation before automobiles | Listed as stablehand, 1907–1915 |
+| Arthur Durham | Chauffeur | Garage; automobile labor | Listed as chauffeur, 1925–1930 |
+| Sidney Scarth | Chauffeur | Garage; automobile labor | Strong employee highlight |
+| Adam Schnekenburger | Chauffeur | Garage; automobile labor | Listed as chauffeur, 1913 |
+| Joseph Tyms | Chauffeur | Garage; automobile labor | Listed as chauffeur |
+| Thomas Conroy | Coachman / body guard, verify language | Stable, transportation, household security | Employee list says body guard; project notes connect him to coachman work |
+| Theodore Ducrell / Durcell | Servant | General service | Listed as servant, 1910 |
+
+
+| Name | Role / job title | Where this person fits in the project | Notes |
+|---|---|---|---|
+| John V. Miller | Mina Edison’s brother; executive at Thomas A. Edison, Inc.; family/property supervisor | Mina as home executive; household management; contractor oversight; travel absences | Not domestic staff, but essential to Mina’s management system. He checked accounts, monitored contractors, supervised Glenmont when the family traveled, and helped manage bill-checking. |
+| John Randolph / J. F. Randolph | Financial secretary | Mina as home executive; accounts and payroll | Assisted Mina with household accounting, bills, receipts, and monthly cash statements. |
+| Lucy Bogue | Companion; music teacher; trusted family associate | Family care; music; emotional support; property memory; later-life household continuity | Began as a piano/music teacher for the Edison children and became a close companion to Mina. Later helped family members understand Mina’s wishes and belongings. |
+| Lynn Given | Secretary to Mina Edison | Oral history; memory of staff; later household administration | Useful as both an employee and a source, since her recollections name staff such as Martha, Johanna, and Malloy. |
+| Marion Humble | Executive secretary | Administrative labor; Mina’s later household | Listed as executive secretary in the employee list. |
+| Miss M. Corning McKee | Companion / secretary | Care, companionship, administration | Listed as companion/secretary; useful for showing how “administrative” and “care” roles could overlap. |
