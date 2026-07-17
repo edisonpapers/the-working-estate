@@ -8,7 +8,7 @@
     - [Rest and Respite](/5)
     - [Break Time](/6)
 
-# Section 2
+# The Household at Work
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA007 left
 
