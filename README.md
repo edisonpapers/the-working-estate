@@ -28,7 +28,7 @@ Read the Introduction
 
 ![Glenmont, exterior, side and driveway to entrance.](https://npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg)
 
-Section 1
+Glenmont, exterior, side and driveway to entrance. (NPS, 1960)
 
 #### “Back of the House,” Domestic Work and Navigating the Glenmont Estate​ {href=2}
 
