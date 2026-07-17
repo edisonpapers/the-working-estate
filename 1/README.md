@@ -8,9 +8,7 @@
     - [Rest and Respite](/5)
     - [Break Time](/6)
 
-# Section 1: Glenmont, the Working Estate
-
-# Glenmont, the Working Estate
+# Glenmont as a Working Estate
 
 `image images/glenmont-estate-plan.jpg .left`
 
