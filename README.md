@@ -6,7 +6,6 @@
     - [Hosting Glenmont](/3)
     - [Beyond the House](/4)
     - [Rest and Respite](/5)
-    - [Break Time](/6)
 
 NOTE: We will change this text, it's just stand in for the landing page, before the exhibit/essay begins. 
 
@@ -49,9 +48,3 @@ Glenmont, exterior, rear, Henry Horsey on the lawn. (NPS, 1949)
 ![](https://npgallery.nps.gov/EDIS/GetAsset/492c85f61f9141ab87765799879f775c/proxyhires.jpg)
 
 Glenmont, interior, third floor, bedroom. (NPS, 1960)
-
-#### Break Time​ {href=6}
-
-![](https://npgallery.nps.gov/EDIS/GetAsset/492c85f61f9141ab87765799879f775c/proxyhires.jpg)
-
-Section 6
