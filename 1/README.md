@@ -2,15 +2,11 @@
     - [Home](/)
     - [Introduction](/introduction)
     - [Glenmont, the Working Estate](/1)
-    - [“Back of the House,” Domestic Work and Navigating the Glenmont Estate​](/2)
-    - [Maintaining the Second Floor](/3)
-    - [Child Care & Intimacy Work](/4)
-    - [Laundry](/5)
-    - [Preparing for Guests​](/6)
-    - [Staff Organization and Work Beyond Glenmont​](/7)
-    - [Special Guests and Special Occasions​](/8)
-    - [“Men’s Labor” Landscaping and Chauffeuring​](/9)
-    - [Rest and Respite ](/10)
+    - [The Household at Work](/2)
+    - [Hosting Glenmont](/3)
+    - [Beyond the House](/4)
+    - [Rest and Respite](/5)
+    - [Break Time](/6)
 
 # Section 1: Glenmont, the Working Estate
 
