@@ -22,36 +22,36 @@ Read the Introduction
 
 #### Glenmont, the Working Estate​ {href=1}
 
-![Glenmont, exterior, side and driveway to entrance.](https://npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg)
+![](https://npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg)
 
 Glenmont, exterior, side and driveway to entrance. (NPS, 1960)
 
 #### The Household at Work​ {href=2}
 
-![Glenmont, interior, first floor, Servant's Dining Room.](https://npgallery.nps.gov/EDIS/GetAsset/b2eee9d4a0dc4983ac1bd2731fd93f6f/proxyhires.jpg)
+![](https://npgallery.nps.gov/EDIS/GetAsset/b2eee9d4a0dc4983ac1bd2731fd93f6f/proxyhires.jpg)
 
-Section 2
+Glenmont, interior, first floor, Servant's Dining Room.
 
 #### Hosting Glenmont {href=3}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_03.png)
+![](https://npgallery.nps.gov/EDIS/GetAsset/3e8ae550858040cf93a039b4760151a6/proxymdres.jpg)
 
-Section 3
+Glenmont, interior, first floor, Dining Room, table set for Christmas party.
 
 #### Beyond the House {href=4}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
+![](https://npgallery.nps.gov/EDIS/GetAsset/6310cacd46774c6a8405d45a61460083/proxymdres.jpg)
 
-Section 4
+Glenmont, exterior, rear, Henry Horsey on the lawn. (NPS, 1949)
 
 #### Rest and Respite {href=5}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_05.png)
+![](https://npgallery.nps.gov/EDIS/GetAsset/492c85f61f9141ab87765799879f775c/proxyhires.jpg)
 
-Section 5
+Glenmont, interior, third floor, bedroom. (NPS, 1960)
 
 #### Break Time​ {href=6}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_06.png)
+![](https://npgallery.nps.gov/EDIS/GetAsset/492c85f61f9141ab87765799879f775c/proxyhires.jpg)
 
 Section 6
