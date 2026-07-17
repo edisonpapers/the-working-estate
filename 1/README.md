@@ -19,6 +19,8 @@ WORKING NOTE TO REMOVE - Sections include:
 
 ------------------------------
 
+.ve-media (https://raw.githubusercontent.com/edisonpapers/media/refs/heads/main/unseen/section1/image%20images_glenmont-estate-plan.png)
+
 `image images/glenmont-estate-plan.jpg .left`
 
 *Glenmont estate plan showing seven landscape zones. Source: [Cultural Landscape Inventory: Glenmont Estate](https://npshistory.com/publications/edis/cli-glenmont-estate.pdf), p. 76.*
