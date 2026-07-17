@@ -9,11 +9,15 @@
 
 # Glenmont as a Working Estate
 
-## Mina Edison, Domestic Education, and Household Management
-## Mina as Home Executive
-## Finding Working-Class Women in Historical Records
-## Coordinating the Working Household
-### A Household Labor Network
+WORKING NOTE TO REMOVE - Sections include:
+- Glenmont, the working Estate
+- Mina Edison, Domestic Education, and Household Management
+- Mina as Home Executive
+- Finding Working-Class Women in Historical Records
+- Coordinating the Working Household
+- A Household Labor Network
+
+------------------------------
 
 `image images/glenmont-estate-plan.jpg .left`
 
