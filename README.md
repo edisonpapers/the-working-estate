@@ -28,7 +28,7 @@ Glenmont, exterior, side and driveway to entrance. (NPS, 1960)
 
 #### The Household at Work​ {href=2}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/unseen/frontpage/section2card.jpg)
+![Glenmont, interior, first floor, Servant's Dining Room.](https://npgallery.nps.gov/EDIS/GetAsset/b2eee9d4a0dc4983ac1bd2731fd93f6f/proxyhires.jpg)
 
 Section 2
 
