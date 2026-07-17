@@ -19,7 +19,7 @@ WORKING NOTE TO REMOVE - Sections include:
 
 ------------------------------
 
-.ve-media https://raw.githubusercontent.com/edisonpapers/media/refs/heads/main/unseen/section1/image%20images_glenmont-estate-plan.png
+.ve-media https://raw.githubusercontent.com/edisonpapers/media/refs/heads/main/unseen/section1/image%20images_glenmont-estate-plan.png left
 
 `image images/glenmont-estate-plan.jpg .left`
 
