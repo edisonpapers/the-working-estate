@@ -6,7 +6,6 @@
     - [Hosting Glenmont](/3)
     - [Beyond the House](/4)
     - [Rest and Respite](/5)
-    - [Break Time](/6)
 
 # Hosting Glenmont
 
