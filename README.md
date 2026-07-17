@@ -1,4 +1,4 @@
-.ve-header "The Working Estate​" default:https%3A//raw.githubusercontent.com/edisonpapers/media/refs/heads/main/unseen/frontpage/glenmont.jpg "Routine and Domestic Labor at Glenmont,1886–1947" pct:40,40,50,50 center sticky
+.ve-header "The Working Estate​" default:https%3A//raw.githubusercontent.com/edisonpapers/media/refs/heads/main/unseen/frontpage/glenmont.jpg "Routine and Domestic Labor at Glenmont,1886–1947" pct:20,20,50,50 center sticky
     - [Home](/)
     - [Introduction](/introduction)
     - [Glenmont, the Working Estate](/1)
