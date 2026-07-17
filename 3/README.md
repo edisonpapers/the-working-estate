@@ -8,7 +8,7 @@
     - [Rest and Respite](/5)
     - [Break Time](/6)
 
-# The Household at Work
+# Hosting Glenmont
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA011 left
 
