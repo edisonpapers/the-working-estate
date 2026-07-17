@@ -26,7 +26,7 @@ Read the Introduction
 
 #### Glenmont, the Working Estate​ {href=1}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_01.png)
+![Glenmont, exterior, side and driveway to entrance.](https://npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg)
 
 Section 1
 
