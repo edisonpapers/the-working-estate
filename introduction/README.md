@@ -1,4 +1,4 @@
-.ve-header "The Working Estate: Routine and Domestic Labor at Glenmont,1886–1947​" https://edisondigital.rutgers.edu/iiif/MA036 "July 1885" pct:30,30,60,40 center sticky
+.ve-header "The Working Estate" https://edisondigital.rutgers.edu/iiif/MA036 "Routine and Domestic Labor at Glenmont,1886–1947​" pct:30,30,60,40 center sticky
     - [Home](/)
     - [Introduction](/introduction)
     - [Glenmont, the Working Estate](/1)
