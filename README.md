@@ -15,7 +15,7 @@ This site highlights the Glenmont Estate. It is a collaboration between Research
 
 #### Introduction {href=introduction}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg)
+![](https://raw.githubusercontent.com/edisonpapers/media/refs/heads/main/unseen/frontpage/TAE%20and%20Family-Glenmont.jpg)
 
 Read the Introduction 
 
@@ -45,6 +45,6 @@ Glenmont, exterior, rear, Henry Horsey on the lawn. (NPS, 1949)
 
 #### Rest and Respite {href=5}
 
-![]([https://npgallery.nps.gov/EDIS/GetAsset/492c85f61f9141ab87765799879f775c/proxyhires.jpg](https://raw.githubusercontent.com/edisonpapers/media/refs/heads/main/unseen/frontpage/TAE%20and%20Family-Glenmont.jpg))
+![](https://npgallery.nps.gov/EDIS/GetAsset/492c85f61f9141ab87765799879f775c/proxyhires.jpg)
 
 Glenmont, interior, third floor, bedroom. (NPS, 1960)
