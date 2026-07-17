@@ -9,6 +9,12 @@
 
 # Glenmont as a Working Estate
 
+## Mina Edison, Domestic Education, and Household Management
+## Mina as Home Executive
+## Finding Working-Class Women in Historical Records
+## Coordinating the Working Household
+### A Household Labor Network
+
 `image images/glenmont-estate-plan.jpg .left`
 
 *Glenmont estate plan showing seven landscape zones. Source: [Cultural Landscape Inventory: Glenmont Estate](https://npshistory.com/publications/edis/cli-glenmont-estate.pdf), p. 76.*
