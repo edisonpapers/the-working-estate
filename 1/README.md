@@ -25,7 +25,7 @@ WORKING NOTE TO REMOVE - Sections include:
 
 The Glenmont estate, located near the intersection of Park Way and Honeysuckle Avenue, was part of Llewellyn Park, America’s first gated community. Soon after purchasing the estate for Mina Edison, Thomas Edison acquired nearby land to build his West Orange laboratory, which was operational by 1887, transforming the area into a busy industrial hub.
 
-## STAND IN TEXT
+## Stand in text
 
 .ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/west-orange-robinson-atlas-1890.png right wideth=60% caption="TAE West Orange. Robinson, Atlas of Essex County, New Jersey, 1890."
 
@@ -33,7 +33,9 @@ The property included numerous outbuildings, a greenhouse, a small farm, the Gar
 
 <!-- Alt text: Map of Glenmont Estate labeling the Edison Home, greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, Edison gravesite, Park Way, Honeysuckle Road, and areas closed to the public. -->
 
-`image images/glenmont-estate-map-nps.jpg .right` 
+## Stand in text
+
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/glenmont-estate-map-nps.jpg .right` 
 
 *Glenmont map showing the Edison Home and surrounding estate features, including the greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, and Edison gravesite. Source: [National Park Service, “Glenmont”](https://www.nps.gov/npgallery/GetAsset/3f6e2c17-d060-48a5-a479-f09a9ad48553).*
 
