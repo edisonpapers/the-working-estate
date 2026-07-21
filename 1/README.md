@@ -53,7 +53,7 @@ The service wing, in what will be called the back of the house, consisted of the
 
 *Portrait of Mina Edison and Thomas Edison, 1908. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Source: [NPGallery, “Portrait of Mina Edison and Thomas Edison”](https://npgallery.nps.gov/EDIS/AssetDetail/a5354a92-f2e8-4fb1-8a69-9d0b3d2bac84).*
 
-<!-- Alt text: Portrait of Mina Edison and Thomas Edison seated together in 1908; Mina appears on the left wearing pearls, and Thomas Edison appears on the right in formal dress. -->
+Alt text: Portrait of Mina Edison and Thomas Edison seated together in 1908; Mina appears on the left wearing pearls, and Thomas Edison appears on the right in formal dress.
 
 Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oak Place, Mina’s childhood home, in Akron, Ohio. Thomas, who was thirty-nine, had lost his first wife, Mary Stilwell, two years prior. Mina, who was twenty, had recently completed her education at Miss Abby H. Johnson’s Home and Day School for Young Ladies in Boston. As a wedding gift, Thomas asked Mina to choose between a home in New York City and the former Pedder estate in Llewellyn Park, New Jersey. She chose the latter, and the couple moved into their new home in April of the same year.
 
@@ -73,9 +73,9 @@ With her marriage to Thomas Edison, Mina entered a household that already includ
 
 Mina’s preparation for the role of mother and home management began with the example set by her mother, Mary Valinda, and continued with her time at a Boston finishing school. Her experience at the Chautauqua Assembly, the educational and religious institution co-founded by her father, exposed her to Mrs. Emma P. Ewing, who gave participants practical training in kitchen work, hygiene, food testing, breadmaking, sauces, dressings, and refined meal service. These experiences helped shape the way Mina approached domestic management: as a disciplined, intellectualized, and socially significant form of labor.
 
-{: .cards}
+### 3 images as slideshows or single for ow cards/tiles
 
-### Mina Edison with infant, possibly Madeleine Edison
+Alt text: Mina Edison with infant, possibly Madeleine Edison
 
 [Source: NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/e2f89d6d-da07-464d-b48a-a3d9732a539e)
 
@@ -83,7 +83,7 @@ Mina’s preparation for the role of mother and home management began with the e
 
 *Mina Edison holding infant, possibly Madeleine Edison, circa 1880s. Photograph by Benjamin Falk, 949 Broadway, New York. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
 
-### Madeleine Edison, Mina Edison, and Charles Edison
+Alt text: Madeleine Edison, Mina Edison, and Charles Edison
 
 [Source: NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/10918e7b-91fd-485c-8924-944135cb0b1c)
 
@@ -91,7 +91,7 @@ Mina’s preparation for the role of mother and home management began with the e
 
 *Madeleine Edison, Mina Edison, and Charles Edison, circa 1895. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
 
-### Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others
+Alt text: Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others
 
 [Source: NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/94599a3a-8a6d-46d8-899a-c3be7ee1dbd6)
 
