@@ -7,10 +7,9 @@
     - [Beyond the House](/4)
     - [Rest and Respite](/5)
 
-# Glenmont as a Working Estate
+# Section 1 - Glenmont, the Working Estate
 
 WORKING NOTE TO REMOVE - Sections include:
-- Glenmont, the working Estate
 - Mina Edison, Domestic Education, and Household Management
 - Mina as Home Executive
 - Finding Working-Class Women in Historical Records
@@ -19,7 +18,7 @@ WORKING NOTE TO REMOVE - Sections include:
 
 ------------------------------
 
-## Glenmont, the working Estate
+## Glenmont as a Working estate
 
 .ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/glenmont-estate-plan.png left width=60%  caption="Glenmont estate plan showing seven landscape zones. Source: [Cultural Landscape Inventory: Glenmont Estate](https://npshistory.com/publications/edis/cli-glenmont-estate.pdf), p. 76."  left
 
@@ -41,7 +40,12 @@ The main house at Glenmont Estate contains twenty-nine principal rooms, not incl
 
 Alt text: Black-and-white exterior photograph of Glenmont showing the side of the house and driveway entrance. The service wing is visible on the right side of the house. The servant entrance appears in the enclosed section with the double corner window.
 
-[![Black-and-white exterior photograph of Glenmont showing the side of the house and driveway entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window.](https://npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg)](https://npgallery.nps.gov/EDIS/AssetDetail/aefd3388-0467-4304-ac03-512377df1d18) 
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg width=80%
+
+(https://npgallery.nps.gov/EDIS/AssetDetail/aefd3388-0467-4304-ac03-512377df1d18) 
+
+Black-and-white exterior photograph of Glenmont showing the side of the house and driveway entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window.
+Source: NPS
 
 #### TECH NOTE: above image should be centered with width=80%
 
@@ -57,7 +61,7 @@ Alt text: Portrait of Mina Edison and Thomas Edison seated together in 1908; Min
 
 Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oak Place, Mina’s childhood home, in Akron, Ohio. Thomas, who was thirty-nine, had lost his first wife, Mary Stilwell, two years prior. Mina, who was twenty, had recently completed her education at Miss Abby H. Johnson’s Home and Day School for Young Ladies in Boston. As a wedding gift, Thomas asked Mina to choose between a home in New York City and the former Pedder estate in Llewellyn Park, New Jersey. She chose the latter, and the couple moved into their new home in April of the same year.
 
-## The Edison Household at Glenmont
+### The Edison Household at Glenmont
 
 {: .wrap}
 
@@ -69,7 +73,7 @@ Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oa
 
 With her marriage to Thomas Edison, Mina entered a household that already included his three children from his first marriage: Marion, Thomas Jr., and William, who were roughly twelve, ten, and eight years old. Over the next twelve years, the household continued to grow with the births of Madeleine in 1888, Charles in 1890, and Theodore in 1898.
 
-## Mina Edison and the Edison Children
+### Mina Edison and the Edison Children
 
 #### TECH NOTE: 4 images as slideshow or single row of cards/tiles - Desired Juncture behavior: Convert the following three NPGallery images into a slideshow/carousel or multi-image viewer if supported. If not, display as cards or a grouped image sequence.
 
@@ -97,7 +101,7 @@ Alt text: Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy B
 
 *Portrait of Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others, circa 1910. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
 
-### Mina Edison, Domestic Education, and Household Management
+## Mina Edison, Domestic Education, and Household Management
 
 Mina’s preparation for the role of mother and home management began with the example set by her mother, Mary Valinda, and continued with her time at a Boston finishing school. Her experience at the Chautauqua Assembly, the educational and religious institution co-founded by her father, exposed her to Mrs. Emma P. Ewing, who gave participants practical training in kitchen work, hygiene, food testing, breadmaking, sauces, dressings, and refined meal service. These experiences helped shape the way Mina approached domestic management: as a disciplined, intellectualized, and socially significant form of labor.
 
