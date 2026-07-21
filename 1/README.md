@@ -107,8 +107,6 @@ Mina’s preparation for the role of mother and home management began with the e
 
 https://edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-Glenmont_1891.jpg
 
-
-
 `image src=images/glenmont-edison-legacy-sketch.jpg .right alt="Black-and-white illustrated composite of Glenmont interiors, including views of a room with a fireplace, an interior hall or stair area, and a larger furnished room. The image is labeled Interior Sketches from the Residence of Thos. Edison, Esq., Orange, N.J." caption="Interior sketches from the residence of Thomas Edison, Glenmont, Orange, New Jersey. Image credit: National Park Service, Thomas Edison National Historical Park. Source: [The House at Glenmont, Volume 2: Furnishing Plan](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf#page=251), pp. 252–256."`
 
 The Glenmont Estate was multifunctional: it was a private residence, a semi-public entertainment space, and a symbol of the Edison family's socio-economic status. The domestic labor of the women and men who lived on the estate were essential to its functioning as a multipurpose property, especially in the years before semi-public and private gatherings were delegated to hotels and lodges, restaurants, and other spaces in the hospitality realm, as a public-private space of a family.  
