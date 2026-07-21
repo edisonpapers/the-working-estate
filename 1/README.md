@@ -41,7 +41,9 @@ The main house at Glenmont Estate contains twenty-nine principal rooms, not incl
 
 Alt text: Black-and-white exterior photograph of Glenmont showing the side of the house and driveway entrance. The service wing is visible on the right side of the house. The servant entrance appears in the enclosed section with the double corner window.
 
-[![Black-and-white exterior photograph of Glenmont showing the side of the house and driveway entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window.](https://npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg)] (https://npgallery.nps.gov/EDIS/AssetDetail/aefd3388-0467-4304-ac03-512377df1d18) center width=80%
+[![Black-and-white exterior photograph of Glenmont showing the side of the house and driveway entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window.](https://npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg)] (https://npgallery.nps.gov/EDIS/AssetDetail/aefd3388-0467-4304-ac03-512377df1d18) 
+
+#### TECH NOTE: above image should be centered with width=80%
 
 *Glenmont, exterior, side and driveway to entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection.*
 
