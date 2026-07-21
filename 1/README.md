@@ -9,9 +9,7 @@
 
 # Section 1 - Glenmont, the Working Estate
 
-WORKING NOTE TO REMOVE - Sections include:
-- Mina Edison, Domestic Education, and Household Management
-- Mina as Home Executive
+TECH/WORKING NOTE TO REMOVE - Sections in outline not included in markdown:
 - Finding Working-Class Women in Historical Records
 - Coordinating the Working Household
 - A Household Labor Network
@@ -116,7 +114,7 @@ https://edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-G
 The Glenmont Estate was multifunctional: it was a private residence, a semi-public entertainment space, and a symbol of the Edison family's socio-economic status. The domestic labor of the women and men who lived on the estate were essential to its functioning as a multipurpose property, especially in the years before semi-public and private gatherings were delegated to hotels and lodges, restaurants, and other spaces in the hospitality realm, as a public-private space of a family.  
 Over the sixty years of their life at Glenmont  a myriad of societal changes, including immigration, demographic shifts, and women's labor, shaped the lives of the Edison family. As one of foremost American inventors, the experience of domestic workers at Glenmont was shaped by electrification, unique requirements in hosting, and geographic determinants, such as proximity to New York City and Ellis Island. 
 
-### Mina Edison as “Home Executive”
+## Mina Edison as “Home Executive”
 
 #### Household Administration at Glenmont
 {: .wrap}
