@@ -133,7 +133,7 @@ Mina Miller Edison’s role at Glenmont was central to the functioning of the Ed
 
 #### The Meaning of “Home Executive”
 
-ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg .left alt="Mina Edison standing outside at Glenmont." caption="Mina Edison standing outside at Glenmont, circa 1935. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg .left alt="Mina Edison standing outside at Glenmont." caption="Mina Edison standing outside at Glenmont, circa 1935. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
 
 [Source](https://npgallery.nps.gov/EDIS/AssetDetail/7fa0d6b3-4220-485c-bcd7-3ad2eaeeeb98) "Mina Edison standing outside at Glenmont, circa 1935. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain. NPGallery Asset ID: 7fa0d6b34220485cbcd73ad2eaeeeb98."
 
