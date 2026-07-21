@@ -108,9 +108,7 @@ Alt text: Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy B
 
 Mina’s preparation for the role of mother and home management began with the example set by her mother, Mary Valinda, and continued with her time at a Boston finishing school. Her experience at the Chautauqua Assembly, the educational and religious institution co-founded by her father, exposed her to Mrs. Emma P. Ewing, who gave participants practical training in kitchen work, hygiene, food testing, breadmaking, sauces, dressings, and refined meal service. These experiences helped shape the way Mina approached domestic management: as a disciplined, intellectualized, and socially significant form of labor.
 
-
 ### Glenmont: A Representation of the Edison Legacy
-{: .wrap}
 
 https://edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-Glenmont_1891.jpg
 
