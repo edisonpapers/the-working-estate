@@ -30,7 +30,7 @@ The property included numerous outbuildings, a greenhouse, a small farm, the Gar
 
 ## Stand in text
 
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/glenmont-estate-map-nps.png left width=80% caption="National Park Service, “Glenmont”"
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/nps-glenmont-estate-map.png left width=80% caption="National Park Service, “Glenmont”"
 
 *Glenmont map showing the Edison Home and surrounding estate features, including the greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, and Edison gravesite.*
 
