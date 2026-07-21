@@ -36,22 +36,22 @@ The property included numerous outbuildings, a greenhouse, a small farm, the Gar
 
 .ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/nps-glenmont-estate-map.png left width=80% caption="National Park Service, “Glenmont”"
 
+The main house at Glenmont Estate contains twenty-nine principal rooms, not including closets and secondary service spaces. The third floor contained the servants’ bedrooms, the former children’s nursery, extra guest bedrooms, and attic space. The second floor contained the family’s bedrooms, bathrooms, and living spaces. The first floor included the main entry, reception spaces, staircase, and formal rooms for hosting guests. The cellar contained the boiler room, coal rooms, store room, pump room, wood room, and ash room.
+
 *Glenmont map showing the Edison Home and surrounding estate features, including the greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, and Edison gravesite.*
 
 (https://www.nps.gov/npgallery/GetAsset/3f6e2c17-d060-48a5-a479-f09a9ad48553).
 
 Alt Text: Map of Glenmont Estate labeling the Edison Home, greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, Edison gravesite, Park Way, Honeysuckle Road, and areas closed to the public.
 
-The main house at Glenmont Estate contains twenty-nine principal rooms, not including closets and secondary service spaces. The third floor contained the servants’ bedrooms, the former children’s nursery, extra guest bedrooms, and attic space. The second floor contained the family’s bedrooms, bathrooms, and living spaces. The first floor included the main entry, reception spaces, staircase, and formal rooms for hosting guests. The cellar contained the boiler room, coal rooms, store room, pump room, wood room, and ash room.
-
-Alt text: Black-and-white exterior photograph of Glenmont showing the side of the house and driveway entrance. The service wing is visible on the right side of the house. The servant entrance appears in the enclosed section with the double corner window.
-
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg width=60%
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg width=80% caption="NPS"
 
 (https://npgallery.nps.gov/EDIS/AssetDetail/aefd3388-0467-4304-ac03-512377df1d18) 
 
 Black-and-white exterior photograph of Glenmont showing the side of the house and driveway entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window.
-Source: NPS
+
+Alt text: Black-and-white exterior photograph of Glenmont showing the side of the house and driveway entrance. The service wing is visible on the right side of the house. The servant entrance appears in the enclosed section with the double corner window.
+
 
 #### TECH NOTE: above image should be centered with width=80%
 
