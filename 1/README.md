@@ -22,9 +22,7 @@ TECH/WORKING NOTE TO REMOVE - Sections in outline not included in markdown:
 
 The Glenmont estate, located near the intersection of Park Way and Honeysuckle Avenue, was part of Llewellyn Park, America’s first gated community. Soon after purchasing the estate for Mina Edison, Thomas Edison acquired nearby land to build his West Orange laboratory, which was operational by 1887, transforming the area into a busy industrial hub.
 
-### About the Image
-
-Glenmont estate plan showing seven landscape zones. Source: [Cultural Landscape Inventory: Glenmont Estate](https://npshistory.com/publications/edis/cli-glenmont-estate.pdf), p. 76.
+* About the image: Glenmont estate plan showing seven landscape zones. Source: [Cultural Landscape Inventory: Glenmont Estate](https://npshistory.com/publications/edis/cli-glenmont-estate.pdf), p. 76. *
 
 ## Stand in text
 
