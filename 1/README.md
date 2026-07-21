@@ -66,11 +66,11 @@ Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oa
 
 ### The Edison Household at Glenmont
 
-{: .wrap}
-
 .ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-Glenmont_1891.jpg width=60%
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/4c49ee07729846269e9a1be69d12fbdf/proxymdres.jpg .right alt="Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889." caption="Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth, December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/4c49ee07729846269e9a1be69d12fbdf/proxymdres.jpg right 
+
+alt text=Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889. caption text= Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth, December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.
 
 [Source: NPGallery, “Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at home of Mr. Mamroth.”](https://npgallery.nps.gov/EDIS/AssetDetail/4c49ee07-7298-4626-9e9a-1be69d12fbdf)
 
@@ -114,28 +114,27 @@ Mina’s preparation for the role of mother and home management began with the e
 
 https://edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-Glenmont_1891.jpg
 
-`image src=images/glenmont-edison-legacy-sketch.jpg .right alt="Black-and-white illustrated composite of Glenmont interiors, including views of a room with a fireplace, an interior hall or stair area, and a larger furnished room. The image is labeled Interior Sketches from the Residence of Thos. Edison, Esq., Orange, N.J." caption="Interior sketches from the residence of Thomas Edison, Glenmont, Orange, New Jersey. Image credit: National Park Service, Thomas Edison National Historical Park. Source: [The House at Glenmont, Volume 2: Furnishing Plan](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf#page=251), pp. 252–256."`
+Alt Text: "Black-and-white illustrated composite of Glenmont interiors, including views of a room with a fireplace, an interior hall or stair area, and a larger furnished room. The image is labeled Interior Sketches from the Residence of Thos. Edison, Esq., Orange, N.J." caption="Interior sketches from the residence of Thomas Edison, Glenmont, Orange, New Jersey. Image credit: National Park Service, Thomas Edison National Historical Park. Source: [The House at Glenmont, Volume 2: Furnishing Plan](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf#page=251), pp. 252–256."`
 
 The Glenmont Estate was multifunctional: it was a private residence, a semi-public entertainment space, and a symbol of the Edison family's socio-economic status. The domestic labor of the women and men who lived on the estate were essential to its functioning as a multipurpose property, especially in the years before semi-public and private gatherings were delegated to hotels and lodges, restaurants, and other spaces in the hospitality realm, as a public-private space of a family.  
+
 Over the sixty years of their life at Glenmont  a myriad of societal changes, including immigration, demographic shifts, and women's labor, shaped the lives of the Edison family. As one of foremost American inventors, the experience of domestic workers at Glenmont was shaped by electrification, unique requirements in hosting, and geographic determinants, such as proximity to New York City and Ellis Island. 
 
 ## Mina Edison as “Home Executive”
 
 #### Household Administration at Glenmont
-{: .wrap}
 
 ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg right 
 
-alt="Portrait of Mina Edison seated in the Conservatory at Glenmont." caption="Portrait of Mina Edison, seated in the Conservatory at Glenmont. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
+alt text: Portrait of Mina Edison seated in the Conservatory at Glenmont. caption/underneath text: =Portrait of Mina Edison, seated in the Conservatory at Glenmont. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."
 
 [Source](https://npgallery.nps.gov/EDIS/AssetDetail/2429bd7f-0836-4833-a083-e570482f5358) “Portrait of Mina Edison seated in the Conservatory at Glenmont. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain. NPGallery Asset ID: 2429bd7f08364833a083e570482f5358”
 
 Mina Miller Edison’s role at Glenmont was central to the functioning of the Edison household. While Edison remained absorbed in his laboratory work and scientific enterprises, Mina assumed responsibility for the domestic and administrative management of Glenmont and, later, Seminole Lodge in Fort Myers, Florida. Her work included planning meals, supervising domestic employees, ordering supplies, arranging repairs and improvements, reviewing household accounts, and signing checks.
 
 #### The Meaning of “Home Executive”
-{: .wrap}
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg .left alt="Mina Edison standing outside at Glenmont." caption="Mina Edison standing outside at Glenmont, circa 1935. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
+ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg .left alt="Mina Edison standing outside at Glenmont." caption="Mina Edison standing outside at Glenmont, circa 1935. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
 
 [Source](https://npgallery.nps.gov/EDIS/AssetDetail/7fa0d6b3-4220-485c-bcd7-3ad2eaeeeb98) "Mina Edison standing outside at Glenmont, circa 1935. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain. NPGallery Asset ID: 7fa0d6b34220485cbcd73ad2eaeeeb98."
 
