@@ -52,9 +52,6 @@ Black-and-white exterior photograph of Glenmont showing the side of the house an
 
 Alt text: Black-and-white exterior photograph of Glenmont showing the side of the house and driveway entrance. The service wing is visible on the right side of the house. The servant entrance appears in the enclosed section with the double corner window.
 
-
-#### TECH NOTE: above image should be centered with width=80%
-
 *Glenmont, exterior, side and driveway to entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection.*
 
 The service wing, in what will be called the back of the house, consisted of the kitchen, pantry, and servants’ dining room. This section of the home also had a back staircase that domestic staff used to access the other floors of the house.
