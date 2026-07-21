@@ -142,9 +142,7 @@ The letter is valuable because it lists people by task. Lena and Mina handled dr
 
 This document shows that domestic labor was not confined to a single room or even a single property. Although many of these workers were primarily associated with Glenmont, their labor could extend to other Edison family homes or properties connected to Mina’s relatives. The household staff formed part of a flexible labor network, called upon when rooms needed to be cleaned, seasonal transitions prepared, or family members settled into a house.
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/X400OAH width=60% left
-
-<iframe src="https://edisondigital.rutgers.edu/uv.html#?manifest=https://edisondigital.rutgers.edu/iiif/2/X400OAH/manifest&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-434,-210,1567,1524&r=0" width="560" height="420" allowfullscreen frameborder="0" title="[X400OAH], Letter from Mina Miller Edison to Madeleine Edison Sloane and John Eyre Sloane, September 9, 1924"></iframe>
+.ve-media https://edisondigital.rutgers.edu/iiif/2/X400OAH width=60%
 
 *Mina Miller Edison to Madeleine Edison Sloane and John Eyre Sloane, September 9, 1924. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: X400OAH. Written from Monhegan Island, Maine, the letter describes the coordinated labor of family members, household staff, gardeners, and tradesmen preparing a family home for winter.*
 
