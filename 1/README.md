@@ -61,6 +61,8 @@ Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oa
 
 {: .wrap}
 
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/Interior-sketches-of-Glenmont_1891.jpg
+
 `image src=https://npgallery.nps.gov/EDIS/GetAsset/4c49ee07729846269e9a1be69d12fbdf/proxymdres.jpg .right alt="Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889." caption="Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth, December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
 
 [Source: NPGallery, “Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at home of Mr. Mamroth.”](https://npgallery.nps.gov/EDIS/AssetDetail/4c49ee07-7298-4626-9e9a-1be69d12fbdf)
@@ -69,7 +71,7 @@ With her marriage to Thomas Edison, Mina entered a household that already includ
 
 ## Mina Edison and the Edison Children
 
-#### TECH NOTE: 3 images as slideshows or single row of cards/tiles - Desired Juncture behavior: Convert the following three NPGallery images into a slideshow/carousel or multi-image viewer if supported. If not, display as cards or a grouped image sequence.
+#### TECH NOTE: 4 images as slideshow or single row of cards/tiles - Desired Juncture behavior: Convert the following three NPGallery images into a slideshow/carousel or multi-image viewer if supported. If not, display as cards or a grouped image sequence.
 
 Alt text: Mina Edison with infant, possibly Madeleine Edison
 
@@ -102,6 +104,10 @@ Mina’s preparation for the role of mother and home management began with the e
 
 ### Glenmont: A Representation of the Edison Legacy
 {: .wrap}
+
+https://edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-Glenmont_1891.jpg
+
+
 
 `image src=images/glenmont-edison-legacy-sketch.jpg .right alt="Black-and-white illustrated composite of Glenmont interiors, including views of a room with a fireplace, an interior hall or stair area, and a larger furnished room. The image is labeled Interior Sketches from the Residence of Thos. Edison, Esq., Orange, N.J." caption="Interior sketches from the residence of Thomas Edison, Glenmont, Orange, New Jersey. Image credit: National Park Service, Thomas Edison National Historical Park. Source: [The House at Glenmont, Volume 2: Furnishing Plan](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf#page=251), pp. 252–256."`
 
