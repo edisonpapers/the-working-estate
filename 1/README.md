@@ -61,7 +61,7 @@ Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oa
 
 {: .wrap}
 
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-Glenmont_1891.jpg
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-Glenmont_1891.jpg width=60%
 
 `image src=https://npgallery.nps.gov/EDIS/GetAsset/4c49ee07729846269e9a1be69d12fbdf/proxymdres.jpg .right alt="Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889." caption="Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth, December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
 
