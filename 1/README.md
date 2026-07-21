@@ -68,6 +68,7 @@ Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oa
 
 .ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-Glenmont_1891.jpg width=60%
 
+###
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/4c49ee07729846269e9a1be69d12fbdf/proxymdres.jpg right 
 
 alt text=Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889. caption text= Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth, December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.
@@ -122,7 +123,7 @@ Over the sixty years of their life at Glenmont  a myriad of societal changes, in
 
 #### Household Administration at Glenmont
 
-ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg right 
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg right 
 
 alt text: Portrait of Mina Edison seated in the Conservatory at Glenmont. caption/underneath text: =Portrait of Mina Edison, seated in the Conservatory at Glenmont. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."
 
