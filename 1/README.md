@@ -69,13 +69,7 @@ With her marriage to Thomas Edison, Mina entered a household that already includ
 
 ## Mina Edison and the Edison Children
 
-#### 3 images as slideshows or single row of cards/tiles - Desired Juncture behavior: Convert the following three NPGallery images into a slideshow/carousel or multi-image viewer if supported. If not, display as cards or a grouped image sequence.
-
-### Mina Edison, Domestic Education, and Household Management
-
-Mina’s preparation for the role of mother and home management began with the example set by her mother, Mary Valinda, and continued with her time at a Boston finishing school. Her experience at the Chautauqua Assembly, the educational and religious institution co-founded by her father, exposed her to Mrs. Emma P. Ewing, who gave participants practical training in kitchen work, hygiene, food testing, breadmaking, sauces, dressings, and refined meal service. These experiences helped shape the way Mina approached domestic management: as a disciplined, intellectualized, and socially significant form of labor.
-
-
+#### TECH NOTE: 3 images as slideshows or single row of cards/tiles - Desired Juncture behavior: Convert the following three NPGallery images into a slideshow/carousel or multi-image viewer if supported. If not, display as cards or a grouped image sequence.
 
 Alt text: Mina Edison with infant, possibly Madeleine Edison
 
@@ -100,6 +94,10 @@ Alt text: Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy B
 ![Group portrait of Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others.](https://npgallery.nps.gov/EDIS/GetAsset/94599a3a8a6d46d8899ac3be7ee1dbd6/original.jpg)
 
 *Portrait of Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others, circa 1910. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
+
+### Mina Edison, Domestic Education, and Household Management
+
+Mina’s preparation for the role of mother and home management began with the example set by her mother, Mary Valinda, and continued with her time at a Boston finishing school. Her experience at the Chautauqua Assembly, the educational and religious institution co-founded by her father, exposed her to Mrs. Emma P. Ewing, who gave participants practical training in kitchen work, hygiene, food testing, breadmaking, sauces, dressings, and refined meal service. These experiences helped shape the way Mina approached domestic management: as a disciplined, intellectualized, and socially significant form of labor.
 
 
 ### Glenmont: A Representation of the Edison Legacy
