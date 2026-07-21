@@ -27,15 +27,13 @@ The Glenmont estate, located near the intersection of Park Way and Honeysuckle A
 
 ## Stand in text
 
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/west-orange-robinson-atlas-1890.png right wideth=60% caption="TAE West Orange. Robinson, Atlas of Essex County, New Jersey, 1890."
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/west-orange-robinson-atlas-1890.png right width=60% caption="TAE West Orange. Robinson, Atlas of Essex County, New Jersey, 1890."
 
 The property included numerous outbuildings, a greenhouse, a small farm, the Gardener’s Cottage, the Potting Shed, the Garage, and extensive landscaped grounds. The Gardener’s Cottage was added in 1908, and construction on the Potting Shed began in 1906.
 
 ## Stand in text
 
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/glenmont-estate-map-nps.png .right` 
-
-*Glenmont map showing the Edison Home and surrounding estate features, including the greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, and Edison gravesite. Source: [National Park Service, “Glenmont”](https://www.nps.gov/npgallery/GetAsset/3f6e2c17-d060-48a5-a479-f09a9ad48553).*
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/glenmont-estate-map-nps.png .right` width=60% caption="Glenmont map showing the Edison Home and surrounding estate features, including the greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, and Edison gravesite. Source: [National Park Service, “Glenmont”](https://www.nps.gov/npgallery/GetAsset/3f6e2c17-d060-48a5-a479-f09a9ad48553)."
 
 Alt Text: Map of Glenmont Estate labeling the Edison Home, greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, Edison gravesite, Park Way, Honeysuckle Road, and areas closed to the public.
 
