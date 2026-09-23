@@ -99,13 +99,11 @@ Madeleine Edison, Mina Edison, and Charles Edison, circa 1895. Image credit: U.S
 ![](https://npgallery.nps.gov/EDIS/GetAsset/94599a3a8a6d46d8899ac3be7ee1dbd6/original.jpg)
 Portrait of Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others, circa 1910. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.
 
-#### Source 4
+#### Title 4?
 
 ![](https://npgallery.nps.gov/EDIS/GetAsset/3e8ae550858040cf93a039b4760151a6/proxymdres.jpg)
 
 Caption 4
-
-###
 
 ## Mina Edison, Domestic Education, and Household Management
 
