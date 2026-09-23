@@ -77,11 +77,7 @@ alt text=Black-and-white group photograph of Mina Edison, Thomas Edison, Marion 
 
 With her marriage to Thomas Edison, Mina entered a household that already included his three children from his first marriage: Marion, Thomas Jr., and William, who were roughly twelve, ten, and eight years old. Over the next twelve years, the household continued to grow with the births of Madeleine in 1888, Charles in 1890, and Theodore in 1898.
 
-#### TECH NOTE: 4 images as slideshow or single row of cards/tiles - Desired Juncture behavior: Convert the following three NPGallery images into a slideshow/carousel or multi-image viewer if supported. If not, display as cards or a grouped image sequence.
-
-.ve-media grid cards
-    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
-    - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_in_Arles_-_Letter_Sketch_October_1888.jpg
+#### TECH NOTE TO REMOVE: 4 images as slideshow or single row of cards/tiles - Desired Juncture behavior: Convert the following three NPGallery images into a slideshow/carousel or multi-image viewer if supported. If not, display as cards or a grouped image sequence.
 
 ### Mina Edison and the Edison Children {.cards}
 
