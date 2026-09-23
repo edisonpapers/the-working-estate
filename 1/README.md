@@ -42,15 +42,16 @@ The main house at Glenmont Estate contains twenty-nine principal rooms, not incl
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg width=80% right caption="NPS"
 
-*About the image: Glenmont, exterior, side and driveway to entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection.*
-
 The service wing, in what will be called the back of the house, consisted of the kitchen, pantry, and servants’ dining room. This section of the home also had a back staircase that domestic staff used to access the other floors of the house.
+
+*About the image: Glenmont, exterior, side and driveway to entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection.*
 
 .ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/a5354a92f2e84fb18a699d0b3d2bac84/proxymdres.jpg width=80% left caption="Portrait of Mina Edison and Thomas Edison, 1908."
 
+Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oak Place, Mina’s childhood home, in Akron, Ohio. Thomas, who was thirty-nine, had lost his first wife, Mary Stilwell, two years prior. Mina, who was twenty, had recently completed her education at Miss Abby H. Johnson’s Home and Day School for Young Ladies in Boston. As a wedding gift, Thomas asked Mina to choose between a home in New York City and the former Pedder estate in Llewellyn Park, New Jersey. She chose the latter, and the couple moved into their new home in April of the same year.
+
 *About the image: Portrait of Mina Edison and Thomas Edison seated together in 1908; Mina appears on the left wearing pearls, and Thomas Edison appears on the right in formal dress. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Source: NPGallery, “Portrait of Mina Edison and Thomas Edison”*
 
-Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oak Place, Mina’s childhood home, in Akron, Ohio. Thomas, who was thirty-nine, had lost his first wife, Mary Stilwell, two years prior. Mina, who was twenty, had recently completed her education at Miss Abby H. Johnson’s Home and Day School for Young Ladies in Boston. As a wedding gift, Thomas asked Mina to choose between a home in New York City and the former Pedder estate in Llewellyn Park, New Jersey. She chose the latter, and the couple moved into their new home in April of the same year.
 
 ## The Edison Household at Glenmont
 
