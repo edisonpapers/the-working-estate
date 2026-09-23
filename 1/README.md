@@ -34,42 +34,32 @@ The property included numerous outbuildings, a greenhouse, a small farm, the Gar
 
 ## 
 
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/nps-glenmont-estate-map.png left width=80% caption="National Park Service, “Glenmont”"
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/nps-glenmont-estate-map.png left left width=80% caption="National Park Service, “Glenmont”"
 
 The main house at Glenmont Estate contains twenty-nine principal rooms, not including closets and secondary service spaces. The third floor contained the servants’ bedrooms, the former children’s nursery, extra guest bedrooms, and attic space. The second floor contained the family’s bedrooms, bathrooms, and living spaces. The first floor included the main entry, reception spaces, staircase, and formal rooms for hosting guests. The cellar contained the boiler room, coal rooms, store room, pump room, wood room, and ash room.
 
-*Glenmont map showing the Edison Home and surrounding estate features, including the greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, and Edison gravesite.*
+*About the image: Map of Glenmont Estate labeling the Edison Home and surrounding estate features, greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, Edison gravesite, Park Way, Honeysuckle Road, and areas closed to the public.*
 
-(https://www.nps.gov/npgallery/GetAsset/3f6e2c17-d060-48a5-a479-f09a9ad48553).
-
-*About the image: Map of Glenmont Estate labeling the Edison Home, greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, Edison gravesite, Park Way, Honeysuckle Road, and areas closed to the public.*
-
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg width=80% caption="NPS"
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg width=80% right caption="NPS"
 
 *About the image: Glenmont, exterior, side and driveway to entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection.*
 
 The service wing, in what will be called the back of the house, consisted of the kitchen, pantry, and servants’ dining room. This section of the home also had a back staircase that domestic staff used to access the other floors of the house.
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/a5354a92f2e84fb18a699d0b3d2bac84/proxymdres.jpg width=80% caption="Portrait of Mina Edison and Thomas Edison, 1908."
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/a5354a92f2e84fb18a699d0b3d2bac84/proxymdres.jpg width=80% left caption="Portrait of Mina Edison and Thomas Edison, 1908."
 
-Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Source: NPGallery, “Portrait of Mina Edison and Thomas Edison”
-
-Alt text: Portrait of Mina Edison and Thomas Edison seated together in 1908; Mina appears on the left wearing pearls, and Thomas Edison appears on the right in formal dress.
-
-(https://npgallery.nps.gov/EDIS/GetAsset/a5354a92f2e84fb18a699d0b3d2bac84/proxymdres.jpg)](https://npgallery.nps.gov/EDIS/AssetDetail/a5354a92-f2e8-4fb1-8a69-9d0b3d2bac84)
+*About the image: Portrait of Mina Edison and Thomas Edison seated together in 1908; Mina appears on the left wearing pearls, and Thomas Edison appears on the right in formal dress. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Source: NPGallery, “Portrait of Mina Edison and Thomas Edison”*
 
 Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oak Place, Mina’s childhood home, in Akron, Ohio. Thomas, who was thirty-nine, had lost his first wife, Mary Stilwell, two years prior. Mina, who was twenty, had recently completed her education at Miss Abby H. Johnson’s Home and Day School for Young Ladies in Boston. As a wedding gift, Thomas asked Mina to choose between a home in New York City and the former Pedder estate in Llewellyn Park, New Jersey. She chose the latter, and the couple moved into their new home in April of the same year.
 
 ## The Edison Household at Glenmont
 
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-Glenmont_1891.jpg width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-Glenmont_1891.jpg right width=80%
 
 ##
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/4c49ee07729846269e9a1be69d12fbdf/proxymdres.jpg right 
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/4c49ee07729846269e9a1be69d12fbdf/proxymdres.jpg left width=80% caption="Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at home of Mr. Mamroth" 
 
-alt text=Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889. caption text= Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth, December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.
-
-[Source: NPGallery, “Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at home of Mr. Mamroth.”](https://npgallery.nps.gov/EDIS/AssetDetail/4c49ee07-7298-4626-9e9a-1be69d12fbdf)
+*About the image: Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889. caption text= Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth, December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
 
 With her marriage to Thomas Edison, Mina entered a household that already included his three children from his first marriage: Marion, Thomas Jr., and William, who were roughly twelve, ten, and eight years old. Over the next twelve years, the household continued to grow with the births of Madeleine in 1888, Charles in 1890, and Theodore in 1898.
 
