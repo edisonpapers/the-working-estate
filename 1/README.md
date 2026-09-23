@@ -64,11 +64,11 @@ Alt text: Portrait of Mina Edison and Thomas Edison seated together in 1908; Min
 
 Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oak Place, Mina’s childhood home, in Akron, Ohio. Thomas, who was thirty-nine, had lost his first wife, Mary Stilwell, two years prior. Mina, who was twenty, had recently completed her education at Miss Abby H. Johnson’s Home and Day School for Young Ladies in Boston. As a wedding gift, Thomas asked Mina to choose between a home in New York City and the former Pedder estate in Llewellyn Park, New Jersey. She chose the latter, and the couple moved into their new home in April of the same year.
 
-### The Edison Household at Glenmont
+## The Edison Household at Glenmont
 
 .ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-Glenmont_1891.jpg width=60%
 
-###
+##
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/4c49ee07729846269e9a1be69d12fbdf/proxymdres.jpg right 
 
 alt text=Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889. caption text= Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth, December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.
@@ -77,9 +77,7 @@ alt text=Black-and-white group photograph of Mina Edison, Thomas Edison, Marion 
 
 With her marriage to Thomas Edison, Mina entered a household that already included his three children from his first marriage: Marion, Thomas Jr., and William, who were roughly twelve, ten, and eight years old. Over the next twelve years, the household continued to grow with the births of Madeleine in 1888, Charles in 1890, and Theodore in 1898.
 
-#### TECH NOTE TO REMOVE: 4 images as slideshow or single row of cards/tiles - Desired Juncture behavior: Convert the following three NPGallery images into a slideshow/carousel or multi-image viewer if supported. If not, display as cards or a grouped image sequence.
-
-### Mina Edison and the Edison Children {.cards}
+## Mina Edison and the Edison Children {.cards}
 Source: NPGallery
 
 #### Mina Edison with infant, possibly Madeleine Edison
@@ -101,7 +99,7 @@ Madeleine Edison, Mina Edison, and Charles Edison, circa 1895. Image credit: U.S
 Portrait of Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others, circa 1910. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.
 
 
-## Mina Edison, Domestic Education, and Household Management
+### Mina Edison, Domestic Education, and Household Management
 
 Mina’s preparation for the role of mother and home management began with the example set by her mother, Mary Valinda, and continued with her time at a Boston finishing school. Her experience at the Chautauqua Assembly, the educational and religious institution co-founded by her father, exposed her to Mrs. Emma P. Ewing, who gave participants practical training in kitchen work, hygiene, food testing, breadmaking, sauces, dressings, and refined meal service. These experiences helped shape the way Mina approached domestic management: as a disciplined, intellectualized, and socially significant form of labor.
 
@@ -117,7 +115,7 @@ Over the sixty years of their life at Glenmont  a myriad of societal changes, in
 
 ## Mina Edison as “Home Executive”
 
-#### Household Administration at Glenmont
+### Household Administration at Glenmont
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg right 
 
@@ -127,7 +125,7 @@ alt text: Portrait of Mina Edison seated in the Conservatory at Glenmont. captio
 
 Mina Miller Edison’s role at Glenmont was central to the functioning of the Edison household. While Edison remained absorbed in his laboratory work and scientific enterprises, Mina assumed responsibility for the domestic and administrative management of Glenmont and, later, Seminole Lodge in Fort Myers, Florida. Her work included planning meals, supervising domestic employees, ordering supplies, arranging repairs and improvements, reviewing household accounts, and signing checks.
 
-#### The Meaning of “Home Executive”
+### The Meaning of “Home Executive”
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg .left alt="Mina Edison standing outside at Glenmont." caption="Mina Edison standing outside at Glenmont, circa 1935. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
 
