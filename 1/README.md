@@ -114,10 +114,10 @@ Mina Miller Edison’s role at Glenmont was central to the functioning of the Ed
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg left caption="Mina Edison standing outside at Glenmont, circa 1935. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
 
+This role aligned with late nineteenth-century expectations for upper-middle-class wives, but Mina also understood household management as skilled executive labor. Reflecting on the inadequacy of the term “housewife,” she argued that a married woman should instead be understood as a “home executive,” a phrase that better captured the managerial authority and constructive work required to run a household of this scale.
+
 *About the image: Mina Edison standing outside at Glenmont. Source NPGallery 
 "Mina Edison standing outside at Glenmont, circa 1935. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain. NPGallery Asset ID: 7fa0d6b34220485cbcd73ad2eaeeeb98."*
-
-This role aligned with late nineteenth-century expectations for upper-middle-class wives, but Mina also understood household management as skilled executive labor. Reflecting on the inadequacy of the term “housewife,” she argued that a married woman should instead be understood as a “home executive,” a phrase that better captured the managerial authority and constructive work required to run a household of this scale.
 
 ## Mina Edison and the Organization of Household Labor
 
