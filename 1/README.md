@@ -42,7 +42,7 @@ The main house at Glenmont Estate contains twenty-nine principal rooms, not incl
 
 (https://www.nps.gov/npgallery/GetAsset/3f6e2c17-d060-48a5-a479-f09a9ad48553).
 
-Alt Text: Map of Glenmont Estate labeling the Edison Home, greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, Edison gravesite, Park Way, Honeysuckle Road, and areas closed to the public.
+*About the image: Map of Glenmont Estate labeling the Edison Home, greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, Edison gravesite, Park Way, Honeysuckle Road, and areas closed to the public.*
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg width=80% caption="NPS"
 
