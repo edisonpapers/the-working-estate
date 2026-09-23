@@ -113,7 +113,7 @@ Over the sixty years of their life at Glenmont  a myriad of societal changes, in
 
 ### Household Administration at Glenmont
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg right 
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg width=80% right 
 
 alt text: Portrait of Mina Edison seated in the Conservatory at Glenmont. caption/underneath text: =Portrait of Mina Edison, seated in the Conservatory at Glenmont. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."
 
