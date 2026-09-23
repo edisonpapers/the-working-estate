@@ -80,24 +80,24 @@ With her marriage to Thomas Edison, Mina entered a household that already includ
 #### TECH NOTE TO REMOVE: 4 images as slideshow or single row of cards/tiles - Desired Juncture behavior: Convert the following three NPGallery images into a slideshow/carousel or multi-image viewer if supported. If not, display as cards or a grouped image sequence.
 
 ### Mina Edison and the Edison Children {.cards}
+Source: NPGallery
 
-#### Source: NPGallery
+#### Mina Edison with infant, possibly Madeleine Edison
 
-![]([https://raw.githubusercontent.com/edisonpapers/media/refs/heads/main/unseen/frontpage/TAE%20and%20Family-Glenmont.jpg](https://npgallery.nps.gov/EDIS/GetAsset/e2f89d6dda07464db48aa3d9732a539e/proxymdres.jpg))
+![](https://npgallery.nps.gov/EDIS/GetAsset/e2f89d6dda07464db48aa3d9732a539e/proxymdres.jpg)
 
 Mina Edison holding infant, possibly Madeleine Edison, circa 1880s. Photograph by Benjamin Falk, 949 Broadway, New York. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.
 
-#### Source 2
+#### Madeleine Edison, Mina Edison, and Charles Edison
 
-![](https://npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg)
+![](https://npgallery.nps.gov/EDIS/GetAsset/10918e7b91fd485c8924944135cb0b1c/proxymdres.jpg)
 
-Caption 2
+Madeleine Edison, Mina Edison, and Charles Edison, circa 1895. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.
 
-#### Source 3
+#### Group portrait of Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others
 
-![](https://npgallery.nps.gov/EDIS/GetAsset/b2eee9d4a0dc4983ac1bd2731fd93f6f/proxyhires.jpg)
-
-Caption 3 
+![](https://npgallery.nps.gov/EDIS/GetAsset/94599a3a8a6d46d8899ac3be7ee1dbd6/original.jpg)
+Portrait of Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others, circa 1910. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.
 
 #### Source 4
 
@@ -105,32 +105,7 @@ Caption 3
 
 Caption 4
 
-
-
-
-Alt text: Mina Edison with infant, possibly Madeleine Edison
-
-[Source: NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/e2f89d6d-da07-464d-b48a-a3d9732a539e)
-
-![Mina Edison holding an infant, possibly Madeleine Edison.](https://npgallery.nps.gov/EDIS/GetAsset/e2f89d6dda07464db48aa3d9732a539e/proxymdres.jpg)
-
-*Mina Edison holding infant, possibly Madeleine Edison, circa 1880s. Photograph by Benjamin Falk, 949 Broadway, New York. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
-
-Alt text: Madeleine Edison, Mina Edison, and Charles Edison
-
-[Source: NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/10918e7b-91fd-485c-8924-944135cb0b1c)
-
-![Madeleine Edison, Mina Edison, and Charles Edison.](https://npgallery.nps.gov/EDIS/GetAsset/10918e7b91fd485c8924944135cb0b1c/proxymdres.jpg)
-
-*Madeleine Edison, Mina Edison, and Charles Edison, circa 1895. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
-
-Alt text: Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others
-
-[Source: NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/94599a3a-8a6d-46d8-899a-c3be7ee1dbd6)
-
-![Group portrait of Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others.](https://npgallery.nps.gov/EDIS/GetAsset/94599a3a8a6d46d8899ac3be7ee1dbd6/original.jpg)
-
-*Portrait of Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy Bogue, and others, circa 1910. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
+###
 
 ## Mina Edison, Domestic Education, and Household Management
 
