@@ -102,17 +102,15 @@ Over the sixty years of their life at Glenmont  a myriad of societal changes, in
 
 ### Household Administration at Glenmont
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg width=80% right 
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg width=80% right Caption="Portrait of Mina Edison seated in the Conservatory at Glenmont"
 
-alt text: Portrait of Mina Edison seated in the Conservatory at Glenmont. caption/underneath text: =Portrait of Mina Edison, seated in the Conservatory at Glenmont. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."
-
-[Source](https://npgallery.nps.gov/EDIS/AssetDetail/2429bd7f-0836-4833-a083-e570482f5358) “Portrait of Mina Edison seated in the Conservatory at Glenmont. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain. NPGallery Asset ID: 2429bd7f08364833a083e570482f5358”
+*About the image: Portrait of Mina Edison seated in the Conservatory at Glenmont. caption/underneath text: =Portrait of Mina Edison, seated in the Conservatory at Glenmont. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain. NPGallery Asset ID: 2429bd7f08364833a083e570482f5358*
 
 Mina Miller Edison’s role at Glenmont was central to the functioning of the Edison household. While Edison remained absorbed in his laboratory work and scientific enterprises, Mina assumed responsibility for the domestic and administrative management of Glenmont and, later, Seminole Lodge in Fort Myers, Florida. Her work included planning meals, supervising domestic employees, ordering supplies, arranging repairs and improvements, reviewing household accounts, and signing checks.
 
 ### The Meaning of “Home Executive”
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg .left caption="Mina Edison standing outside at Glenmont, circa 1935. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg left caption="Mina Edison standing outside at Glenmont, circa 1935. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
 
 *About the image: Mina Edison standing outside at Glenmont. Source NPGallery 
 "Mina Edison standing outside at Glenmont, circa 1935. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain. NPGallery Asset ID: 7fa0d6b34220485cbcd73ad2eaeeeb98."*
