@@ -106,9 +106,9 @@ Over the sixty years of their life at Glenmont  a myriad of societal changes, in
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg width=80% right Caption="Portrait of Mina Edison seated in the Conservatory at Glenmont"
 
-*About the image: Portrait of Mina Edison seated in the Conservatory at Glenmont. caption/underneath text: =Portrait of Mina Edison, seated in the Conservatory at Glenmont. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain. NPGallery Asset ID: 2429bd7f08364833a083e570482f5358*
-
 Mina Miller Edison’s role at Glenmont was central to the functioning of the Edison household. While Edison remained absorbed in his laboratory work and scientific enterprises, Mina assumed responsibility for the domestic and administrative management of Glenmont and, later, Seminole Lodge in Fort Myers, Florida. Her work included planning meals, supervising domestic employees, ordering supplies, arranging repairs and improvements, reviewing household accounts, and signing checks.
+
+*About the image: Portrait of Mina Edison seated in the Conservatory at Glenmont. caption/underneath text: =Portrait of Mina Edison, seated in the Conservatory at Glenmont. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain. NPGallery Asset ID: 2429bd7f08364833a083e570482f5358*
 
 ### The Meaning of “Home Executive”
 
