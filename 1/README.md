@@ -79,6 +79,10 @@ With her marriage to Thomas Edison, Mina entered a household that already includ
 
 #### TECH NOTE: 4 images as slideshow or single row of cards/tiles - Desired Juncture behavior: Convert the following three NPGallery images into a slideshow/carousel or multi-image viewer if supported. If not, display as cards or a grouped image sequence.
 
+.ve-media grid cards
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_in_Arles_-_Letter_Sketch_October_1888.jpg
+
 ### Mina Edison and the Edison Children {.cards}
 
 #### Source: NPGallery
