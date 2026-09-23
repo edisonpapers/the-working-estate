@@ -56,7 +56,7 @@ Alt text: Black-and-white exterior photograph of Glenmont showing the side of th
 
 The service wing, in what will be called the back of the house, consisted of the kitchen, pantry, and servants’ dining room. This section of the home also had a back staircase that domestic staff used to access the other floors of the house.
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/a5354a92f2e84fb18a699d0b3d2bac84/proxymdres.jpg width=80% caption="Portrait of Mina Edison and Thomas Edison, 1908. 
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/a5354a92f2e84fb18a699d0b3d2bac84/proxymdres.jpg width=80% caption="Portrait of Mina Edison and Thomas Edison, 1908."
 
 Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Source: NPGallery, “Portrait of Mina Edison and Thomas Edison”
 
