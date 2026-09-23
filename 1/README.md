@@ -77,9 +77,36 @@ alt text=Black-and-white group photograph of Mina Edison, Thomas Edison, Marion 
 
 With her marriage to Thomas Edison, Mina entered a household that already included his three children from his first marriage: Marion, Thomas Jr., and William, who were roughly twelve, ten, and eight years old. Over the next twelve years, the household continued to grow with the births of Madeleine in 1888, Charles in 1890, and Theodore in 1898.
 
-### Mina Edison and the Edison Children
+### Mina Edison and the Edison Children {.cards]
 
 #### TECH NOTE: 4 images as slideshow or single row of cards/tiles - Desired Juncture behavior: Convert the following three NPGallery images into a slideshow/carousel or multi-image viewer if supported. If not, display as cards or a grouped image sequence.
+
+#### Source: NPGallery
+
+![]([https://raw.githubusercontent.com/edisonpapers/media/refs/heads/main/unseen/frontpage/TAE%20and%20Family-Glenmont.jpg](https://npgallery.nps.gov/EDIS/GetAsset/e2f89d6dda07464db48aa3d9732a539e/proxymdres.jpg))
+
+Mina Edison holding infant, possibly Madeleine Edison, circa 1880s. Photograph by Benjamin Falk, 949 Broadway, New York. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.
+
+#### Source 2
+
+![](https://npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg)
+
+Caption 2
+
+#### Source 3
+
+![](https://npgallery.nps.gov/EDIS/GetAsset/b2eee9d4a0dc4983ac1bd2731fd93f6f/proxyhires.jpg)
+
+Caption 3 
+
+#### Source 4
+
+![](https://npgallery.nps.gov/EDIS/GetAsset/3e8ae550858040cf93a039b4760151a6/proxymdres.jpg)
+
+Caption 4
+
+
+
 
 Alt text: Mina Edison with infant, possibly Madeleine Edison
 
