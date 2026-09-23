@@ -58,11 +58,11 @@ The service wing, in what will be called the back of the house, consisted of the
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/a5354a92f2e84fb18a699d0b3d2bac84/proxymdres.jpg width=80% caption="Portrait of Mina Edison and Thomas Edison, 1908. 
 
-Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Source: [NPGallery, “Portrait of Mina Edison and Thomas Edison”]
+Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Source: NPGallery, “Portrait of Mina Edison and Thomas Edison”
 
 Alt text: Portrait of Mina Edison and Thomas Edison seated together in 1908; Mina appears on the left wearing pearls, and Thomas Edison appears on the right in formal dress.
 
-[![Portrait of Mina Edison and Thomas Edison seated together in 1908; Mina appears on the left wearing pearls, and Thomas Edison appears on the right in formal dress.](https://npgallery.nps.gov/EDIS/GetAsset/a5354a92f2e84fb18a699d0b3d2bac84/proxymdres.jpg)](https://npgallery.nps.gov/EDIS/AssetDetail/a5354a92-f2e8-4fb1-8a69-9d0b3d2bac84)
+(https://npgallery.nps.gov/EDIS/GetAsset/a5354a92f2e84fb18a699d0b3d2bac84/proxymdres.jpg)](https://npgallery.nps.gov/EDIS/AssetDetail/a5354a92-f2e8-4fb1-8a69-9d0b3d2bac84)
 
 Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oak Place, Mina’s childhood home, in Akron, Ohio. Thomas, who was thirty-nine, had lost his first wife, Mary Stilwell, two years prior. Mina, who was twenty, had recently completed her education at Miss Abby H. Johnson’s Home and Day School for Young Ladies in Boston. As a wedding gift, Thomas asked Mina to choose between a home in New York City and the former Pedder estate in Llewellyn Park, New Jersey. She chose the latter, and the couple moved into their new home in April of the same year.
 
