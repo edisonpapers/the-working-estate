@@ -204,7 +204,7 @@ Helena “Lena” McCarthy Doyle Phillips served from the early 1890s into the 1
 #### Staff Mentioned Across This Project
 
 The Monhegan letter captures one moment of coordinated household labor, but many other employees appear elsewhere in Glenmont records. The following names are not all mentioned in that letter, but they help show the range of labor that sustained the Edison household over time. This list can later become a set of internal links to employee highlights.
-
+<br><br>
 ##### Cooks and Kitchen Labor
 
 - **Marie Larrey** — Worked as a cook at Glenmont from approximately 1900 to 1908, making her part of the household’s kitchen workforce during the early twentieth century.
