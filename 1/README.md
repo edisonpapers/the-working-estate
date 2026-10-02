@@ -200,37 +200,57 @@ Helena “Lena” McCarthy Doyle Phillips served from the early 1890s into the 1
 
 [Source: Thomas A. Edison Papers Digital Edition, Document X104FBW](https://edisondigital.rutgers.edu/document/X104FBW)
 
-| Name | Role / job title | Where this person fits in the project | Notes |
-|---|---|---|---|
-| Michael Doyle | Gardener / grounds worker | Grounds maintenance; Seminole Lodge and Glenmont | Strong employee highlight |
-| George Atkinson | Gardener / greenhouse | Grounds maintenance; rose garden; Mina’s horticultural work | Already in Monhegan letter, but important enough to keep in master directory |
-| William Reid | Gardener | Grounds maintenance | Listed as gardener |
-| Fred Peterson | Garden worker | Grounds maintenance | Listed as garden, 1931 |
-| Frank Sarfen | Greenhouse worker | Greenhouse and grounds | Listed as greenhouse, 1906 |
-| Frank Marino | Garden worker | Grounds maintenance | Listed as garden, 1919 |
-| Ernest Walter / Walters | Gardener / estate worker, verify | Grounds maintenance | Your project notes discuss Ernest Walters near greenhouse; employee list has Ernest Walter, 1914 |
-| Peter Malloy | Houseman | Infrastructure, cellar, storage, custody | Already in Monhegan letter, but important for houseman section |
-| William R. Ashford | Glenmont night watchman | Security; labor beyond domestic rooms | Listed as “Glenmont Night W...” |
-| Bernard Heslin | Security | Security; estate oversight | Listed as security, 1908–1940 |
-| John Louis Ponto | Watchman; also battery factory | Security / Edison work networks | Useful for overlap between estate and Edison industries |
-| William Minor | Butler | Dining room; service hierarchy | Listed as butler, 1905–1910 |
-| Jean Larrey | Butler | Dining room; service hierarchy | Listed as butler, 1900–1908 |
-| Waldo / Walter Schaar | Butler | Dining room; service hierarchy | Listed as butler |
-| Henry Horsey | Butler | Dining room; special occasions; wages | Already in Monhegan letter, but central to project |
-| Frank Mason | Stablehand | Stable; transportation before automobiles | Listed as stablehand, 1907–1915 |
-| Arthur Durham | Chauffeur | Garage; automobile labor | Listed as chauffeur, 1925–1930 |
-| Sidney Scarth | Chauffeur | Garage; automobile labor | Strong employee highlight |
-| Adam Schnekenburger | Chauffeur | Garage; automobile labor | Listed as chauffeur, 1913 |
-| Joseph Tyms | Chauffeur | Garage; automobile labor | Listed as chauffeur |
-| Thomas Conroy | Coachman / body guard, verify language | Stable, transportation, household security | Employee list says body guard; project notes connect him to coachman work |
-| Theodore Ducrell / Durcell | Servant | General service | Listed as servant, 1910 |
+#### Staff Mentioned Across This Project
 
+The Monhegan letter captures one moment of coordinated household labor, but many other employees appear elsewhere in Glenmont records. The following names are not all mentioned in that letter, but they help show the range of labor that sustained the Edison household over time. This list can later become a set of internal links to employee highlights.
 
-| Name | Role / job title | Where this person fits in the project | Notes |
-|---|---|---|---|
-| John V. Miller | Mina Edison’s brother; executive at Thomas A. Edison, Inc.; family/property supervisor | Mina as home executive; household management; contractor oversight; travel absences | Not domestic staff, but essential to Mina’s management system. He checked accounts, monitored contractors, supervised Glenmont when the family traveled, and helped manage bill-checking. |
-| John Randolph / J. F. Randolph | Financial secretary | Mina as home executive; accounts and payroll | Assisted Mina with household accounting, bills, receipts, and monthly cash statements. |
-| Lucy Bogue | Companion; music teacher; trusted family associate | Family care; music; emotional support; property memory; later-life household continuity | Began as a piano/music teacher for the Edison children and became a close companion to Mina. Later helped family members understand Mina’s wishes and belongings. |
-| Lynn Given | Secretary to Mina Edison | Oral history; memory of staff; later household administration | Useful as both an employee and a source, since her recollections name staff such as Martha, Johanna, and Malloy. |
-| Marion Humble | Executive secretary | Administrative labor; Mina’s later household | Listed as executive secretary in the employee list. |
-| Miss M. Corning McKee | Companion / secretary | Care, companionship, administration | Listed as companion/secretary; useful for showing how “administrative” and “care” roles could overlap. |
+##### Cooks and Kitchen Labor
+
+- **Marie Larrey** — Worked as a cook at Glenmont from approximately 1900 to 1908, making her part of the household’s kitchen workforce during the early twentieth century.
+Marion Renard — Listed as a cook in 1910, Renard helps document the role of immigrant women in Glenmont’s kitchen labor.
+- **Mary McMahon / McMann** — Listed as a cook in 1915, she provides evidence for both kitchen work and the wages paid to domestic employees.
+- **Queenie Adams** — A cook connected with both Glenmont and Seminole Lodge, Adams is especially important for understanding race, mobility, and domestic labor within the Edison household.
+- **Mary Flaherty** — Worked in the kitchen as a cook, although surviving employee records do not consistently identify her occupation.
+
+##### Maids and Household Service
+- **Mary Jane Little / Lyttle** — Listed as a maid in records from 1905 and 1910, she contributed to the everyday maintenance of the Edison household.
+- **Anna / Annie Tagg** — Appears in the context of a 1927 housekeeping letter and was associated with making beds, mending, and other upstairs household work.
+- **Helena “Lena” McCarthy Doyle Phillips** — A longtime household servant, Lena performed maid work, child care, and linen-related duties, making her career especially useful for understanding trust, intimacy, and mobility within domestic service.
+- **Martha Michel / Michael** — Identified in project notes as Mina Edison’s personal maid, she appears to have performed personal service as well as sewing and ironing, although her name and identification in the employee records still require verification.
+
+##### Chambermaids and Bedroom Work
+- **Bridget Mary Norman** — Worked as a chambermaid from approximately 1903/1904 to 1909, caring for bedrooms and other second-floor spaces used by the Edison family and their guests.
+- **Julia Burke** — Worked as a chambermaid, performing the often-invisible labor required to maintain bedrooms and guest rooms on Glenmont’s second floor.
+Laundry Work
+- **Anna Erickson** — Listed as a laundress in 1899, she performed the physically demanding work of washing and maintaining household linens and clothing.
+- **Teresa Conroy** — Listed in laundry work in 1901, she is useful for examining both laundry labor and possible family networks among domestic workers.
+- **Marguerite Drury** — Worked as a laundress or as additional laundry help, providing an example of part-time or casual labor within the household.
+- **Mrs. John Purdue** — Worked as a laundress or laundry worker and is particularly useful for understanding day labor and the wages paid for temporary domestic work.
+
+##### Sewing, Mending, and Textile Care
+- **Kate Hoefferman** — Listed as a seamstress in 1897, she performed specialized sewing and mending work for the household.
+- **C. S. Maghee** — Was associated with sewing and textile care, helping illuminate the specialized labor involved in maintaining clothing and household fabrics.
+
+##### Parlor, Dining Service, and Extra Help
+- **Jennie Everson / Evanson** — Worked as a parlor maid, helping receive guests and maintain public rooms such as the reception hall and drawing room.
+- **Johanna** — Worked as a waitress and performed dining-room and table-service duties; her surname has not yet been confirmed.
+- **Hulda H. Johnson** — Worked as outside special help, including supplying additional waitstaff when the household needed extra labor for entertaining and special occasions.
+- **J. A. Nixon** — Worked as an extra waitress, providing additional table service during periods of increased household activity or special events.
+- **Paul Paulson** — Is listed as an extra waitress for special occasions, although the name and gender identification should be checked against the original records.
+- **Veronica Zelesky** — Appears to have been employed as extra domestic help, possibly for hosting or periods when additional household labor was needed; her precise role still requires verification.
+
+#### Mina Edison’s Inner Circle: Family, Companions, and Trusted Administrators
+
+These individuals occupied positions of unusual trust and proximity to Mina Edison. Unlike most domestic employees, they often had access to her correspondence, finances, property decisions, family concerns, or personal wishes, and some moved between the roles of employee, adviser, companion, and family associate.
+
+##### Family and Household Management
+- **John V. Miller** — Mina Edison’s brother and an executive at Thomas A. Edison, Inc., Miller also played an important role in managing Glenmont. During family absences, he checked accounts, monitored contractors, supervised property matters, and helped oversee household finances.
+
+##### Financial and Administrative Staff
+- **John Randolph / J. F. Randolph** — As Mina’s financial secretary, Randolph assisted with household accounts, bills, receipts, payroll, and monthly cash statements, giving him access to the household's financial workings.
+- **Lynn Given** — Mina Edison’s secretary, Given helped administer the household and later became an important source of information about its workers, recalling people including Martha, Johanna, and Malloy.
+- **Marion Humble** — Listed as an executive secretary, Humble was part of the administrative structure around Mina in the household's later years.
+
+##### Companions and Trusted Personal Associates
+- **Lucy Bogue** — Initially a piano and music teacher for the Edison children, Bogue developed into a close companion and trusted family associate. Her long relationship with the family gave her knowledge of Mina’s belongings, preferences, and wishes.
+- **Miss M. Corning McKee** — Serving as both companion and secretary, McKee occupied a position where personal care, companionship, and administrative responsibilities overlapped.
