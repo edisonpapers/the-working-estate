@@ -200,6 +200,7 @@ Helena “Lena” McCarthy Doyle Phillips served from the early 1890s into the 1
 
 [Source: Thomas A. Edison Papers Digital Edition, Document X104FBW](https://edisondigital.rutgers.edu/document/X104FBW)
 
+
 #### Staff Mentioned Across This Project
 
 The Monhegan letter captures one moment of coordinated household labor, but many other employees appear elsewhere in Glenmont records. The following names are not all mentioned in that letter, but they help show the range of labor that sustained the Edison household over time. This list can later become a set of internal links to employee highlights.
