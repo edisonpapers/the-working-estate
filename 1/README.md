@@ -212,13 +212,13 @@ Marion Renard — Listed as a cook in 1910, Renard helps document the role of im
 - **Mary McMahon / McMann** — Listed as a cook in 1915, she provides evidence for both kitchen work and the wages paid to domestic employees.
 - **Queenie Adams** — A cook connected with both Glenmont and Seminole Lodge, Adams is especially important for understanding race, mobility, and domestic labor within the Edison household.
 - **Mary Flaherty** — Worked in the kitchen as a cook, although surviving employee records do not consistently identify her occupation.
-
+<br><br>
 ##### Maids and Household Service
 - **Mary Jane Little / Lyttle** — Listed as a maid in records from 1905 and 1910, she contributed to the everyday maintenance of the Edison household.
 - **Anna / Annie Tagg** — Appears in the context of a 1927 housekeeping letter and was associated with making beds, mending, and other upstairs household work.
 - **Helena “Lena” McCarthy Doyle Phillips** — A longtime household servant, Lena performed maid work, child care, and linen-related duties, making her career especially useful for understanding trust, intimacy, and mobility within domestic service.
 - **Martha Michel / Michael** — Identified in project notes as Mina Edison’s personal maid, she appears to have performed personal service as well as sewing and ironing, although her name and identification in the employee records still require verification.
-
+<br><br>
 ##### Chambermaids and Bedroom Work
 - **Bridget Mary Norman** — Worked as a chambermaid from approximately 1903/1904 to 1909, caring for bedrooms and other second-floor spaces used by the Edison family and their guests.
 - **Julia Burke** — Worked as a chambermaid, performing the often-invisible labor required to maintain bedrooms and guest rooms on Glenmont’s second floor.
@@ -227,11 +227,11 @@ Laundry Work
 - **Teresa Conroy** — Listed in laundry work in 1901, she is useful for examining both laundry labor and possible family networks among domestic workers.
 - **Marguerite Drury** — Worked as a laundress or as additional laundry help, providing an example of part-time or casual labor within the household.
 - **Mrs. John Purdue** — Worked as a laundress or laundry worker and is particularly useful for understanding day labor and the wages paid for temporary domestic work.
-
+<br><br>
 ##### Sewing, Mending, and Textile Care
 - **Kate Hoefferman** — Listed as a seamstress in 1897, she performed specialized sewing and mending work for the household.
 - **C. S. Maghee** — Was associated with sewing and textile care, helping illuminate the specialized labor involved in maintaining clothing and household fabrics.
-
+<br><br>
 ##### Parlor, Dining Service, and Extra Help
 - **Jennie Everson / Evanson** — Worked as a parlor maid, helping receive guests and maintain public rooms such as the reception hall and drawing room.
 - **Johanna** — Worked as a waitress and performed dining-room and table-service duties; her surname has not yet been confirmed.
