@@ -15,12 +15,6 @@ Glenmont’s maintenance consisted of rhythms of production, restoration, and ca
 ### Explore the exhibit {.cards}
 
 This site highlights the Glenmont Estate. It is a collaboration between Research Fellow Melissa Benbow, Edison Papers Director Paul Israel, and Nicole Wines. Click on the links below to explore this exhibit.
-​
-#### Introduction {href=introduction}
-
-![](https://raw.githubusercontent.com/edisonpapers/media/refs/heads/main/unseen/frontpage/TAE%20and%20Family-Glenmont.jpg)
-
-Read the Introduction 
 
 #### Glenmont, the Working Estate​ {href=1}
 
