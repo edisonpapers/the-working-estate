@@ -173,7 +173,23 @@ Mother.
 
 ### People Named in the Letter
 
-This letter names a working network rather than a simple household staff list. Some people were Edison family members who supervised the work. Others were long-term servants, gardeners, kitchen workers, housemen, or outside tradespeople brought in for specialized repairs. The range of tasks—linen closets, drapes, china, kitchen work, cellar work, gardens, garage, plumbing, refrigeration, and upholstery—shows how Mina Edison coordinated domestic labor across rooms, objects, and properties.
+This letter names a working network, not a simple household staff list. Some people were Edison family members who supervised the work. Others were long-term servants, gardeners, kitchen workers, housemen, or outside tradespeople brought in for specialized repairs. The range of tasks—linen closets, drapes, china, kitchen work, cellar work, gardens, garage, plumbing, refrigeration, and upholstery—shows how Mina Edison coordinated domestic labor across rooms, objects, and properties.
+
+- "Uncle John” refers to John V. Miller. He was Mina Edison’s brother, an executive at Thomas A. Edison, Inc., and a household/property supervisor. In the letter, he is described as managing the garage and providing general supervision, especially regarding pipes, the refrigerator, and cellar matters. 
+- “Aunt Florence” likely refers to Florence Miller, who was connected to John V. Miller. She was a family member described as a “keybearer and guardian.” In the letter, she appears to have overseen the house and handled books and papers alongside Mina Edison and Malloy.
+- “Atkinson” refers to George Atkinson. He was a gardener or head gardener at Glenmont. The letter describes him working in the gardens with his son. 
+- “Atkinson’s son” refers to George Atkinson's son. He appears to have helped his father in the gardens, either as a garden assistant or family helper. 
+- “Mallory” or “Malloy” refers to Peter Malloy. He was a houseman or estate servant. In the letter, he was associated with handling books and papers as well as work in the cellar. 
+- “Courtney” has not yet been fully identified. The person was likely a household or estate worker and is mentioned in connection with cellar work. 
+- “Lena” refers to Helena “Lena” McCarthy Doyle Phillips. She was a longtime maid, nurse/child-care worker, and trusted household servant. The letter associates her with drapes, linen closets, and kitchen work. Her identification is highly certain.
+- “Mary” likely refers to Mary Flaherty. She appears to have worked as a cook or kitchen worker and is mentioned in connection with kitchen work. 
+- “Bessie” has not yet been fully identified. She appears to have been a household worker, possibly a maid or general servant. The letter indicates that she helped with housecleaning and household preparation. 
+- “Annie McCarthy” has not yet been fully identified. She appears to have been a household worker, likely performing kitchen or maid work. The letter specifically associates her with kitchen work. 
+- “Henry” refers to Henry Horsey. He served as a butler and is mentioned in connection with the china closet. His identification is highly certain.
+- “Smith” has not yet been fully identified. He was a carpenter and is mentioned in connection with carpentry and repair work.
+- “Hayes” has not yet been identified. He was a plumber and is mentioned in connection with plumbing work. His identification is moderately certain.
+- “Lucian” has not yet been identified. He was an upholsterer and is mentioned in connection with upholstery and furnishings. His identification is moderately certain.
+- “Fabious” or “Fabio” may refer to Fabio Definis. His precise role is unclear, but he may have been an estate worker or laborer. The letter places him in the cellar working with Courtney and Malloy. 
 
 | Name in letter | Full name / identification where possible | Role or job title | Work named in the letter | Confidence |
 |---|---|---|---|---|
