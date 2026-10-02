@@ -239,7 +239,7 @@ Laundry Work
 - **J. A. Nixon** — Worked as an extra waitress, providing additional table service during periods of increased household activity or special events.
 - **Paul Paulson** — Is listed as an extra waitress for special occasions, although the name and gender identification should be checked against the original records.
 - **Veronica Zelesky** — Appears to have been employed as extra domestic help, possibly for hosting or periods when additional household labor was needed; her precise role still requires verification.
-
+<br><br>
 #### Mina Edison’s Inner Circle: Family, Companions, and Trusted Administrators
 
 These individuals occupied positions of unusual trust and proximity to Mina Edison. Unlike most domestic employees, they often had access to her correspondence, finances, property decisions, family concerns, or personal wishes, and some moved between the roles of employee, adviser, companion, and family associate.
