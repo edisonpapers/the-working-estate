@@ -243,15 +243,15 @@ Laundry Work
 #### Mina Edison’s Inner Circle: Family, Companions, and Trusted Administrators
 
 These individuals occupied positions of unusual trust and proximity to Mina Edison. Unlike most domestic employees, they often had access to her correspondence, finances, property decisions, family concerns, or personal wishes, and some moved between the roles of employee, adviser, companion, and family associate.
-
+<br><br>
 ##### Family and Household Management
 - **John V. Miller** — Mina Edison’s brother and an executive at Thomas A. Edison, Inc., Miller also played an important role in managing Glenmont. During family absences, he checked accounts, monitored contractors, supervised property matters, and helped oversee household finances.
-
+<br><br>
 ##### Financial and Administrative Staff
 - **John Randolph / J. F. Randolph** — As Mina’s financial secretary, Randolph assisted with household accounts, bills, receipts, payroll, and monthly cash statements, giving him access to the household's financial workings.
 - **Lynn Given** — Mina Edison’s secretary, Given helped administer the household and later became an important source of information about its workers, recalling people including Martha, Johanna, and Malloy.
 - **Marion Humble** — Listed as an executive secretary, Humble was part of the administrative structure around Mina in the household's later years.
-
+<br><br>
 ##### Companions and Trusted Personal Associates
 - **Lucy Bogue** — Initially a piano and music teacher for the Edison children, Bogue developed into a close companion and trusted family associate. Her long relationship with the family gave her knowledge of Mina’s belongings, preferences, and wishes.
 - **Miss M. Corning McKee** — Serving as both companion and secretary, McKee occupied a position where personal care, companionship, and administrative responsibilities overlapped.
