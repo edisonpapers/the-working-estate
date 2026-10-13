@@ -139,7 +139,7 @@ Kitchen maintenance differed from other domestic zones. Surfaces required daily 
 
 ### The Butler and the Waitress: Navigating the Pantry and Dining Room
 
-.ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/3bb190fa23b9431488e75e06f0a468de/proxyhires.jpg width=80% left
+.ve-media https://npgallery.nps.gov/EDIS/GetAsset/3bb190fa23b9431488e75e06f0a468de/proxyhires.jpg width=80% left
 
 *About the image: Interior view of Glenmont’s first-floor Butler’s Pantry, showing cabinetry, counter space, and service storage used in connection with dining room service. October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
