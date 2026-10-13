@@ -8,19 +8,7 @@
 
 # The Household at Work
 
-.ve-media default:https:npgallery.nps.gov/EDIS/GetAsset/50cbb47432da45e392d9dcfee8ee37d4/proxymdres.jpg width=80% right caption="Glenmont, interior, first floor"
-
 This section examines Glenmont as a working household. Its rooms, staircases, service areas, and circulation routes shaped how domestic workers moved through the estate, maintained family life, and supported the public and private functions of the Edison home.
-
-WORKING NOTE TO REMOVE - Sections include:
-
-- “Back of the House”: Domestic Work and Navigating the Estate
-    - Kitchen Duty: Cooks, Maids, and Butlers
-- Maintaining the Second Floor
-- Child Care & Intimacy Work
-- Laundry Work
-
-Melissa, are you envisioning that these sections are set up on the top as cards with an image that can be clicked on to jump down to that section on the page?
 
 .ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/first-floor-plan-color-coded.jpg left width=80% caption="First Floor Plan" left 
 
