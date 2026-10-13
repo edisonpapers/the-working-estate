@@ -65,13 +65,15 @@ Laundry work connected the household’s service spaces to the repeated labor of
 ## “Back of the House”: Domestic Work and Navigating the Glenmont Estate
 {: .wrap}
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/50cbb47432da45e392d9dcfee8ee37d4/proxymdres.jpg .right width=60% caption="Glenmont, interior, first floor"
+.ve-media default:https:npgallery.nps.gov/EDIS/GetAsset/50cbb47432da45e392d9dcfee8ee37d4/proxymdres.jpg width=80% right caption="Glenmont, interior, first floor"
 
 *About the image: Interior view of Glenmont’s first-floor Servant’s Hall and staircase Servant’s Hall and staircase, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Servant’s Hall and staircase.”](https://npgallery.nps.gov/EDIS/AssetDetail/50cbb474-32da-45e3-92d9-dcfee8ee37d4)
 
 Women comprised most of the salaried employees who worked within the Glenmont household. Throughout the late nineteenth and early twentieth centuries, the composition of the domestic staff shifted according to the family’s needs, finances, and the availability of workers. Payroll records indicate that the household commonly employed a cook, waitress, maid, nurse, and laundress during the early 1890s, though Mina Edison periodically reduced or expanded the staff. By the late 1890s and early twentieth century, more specialized positions emerged, including chambermaids, kitchen maids, companions, and personal maids.
+
+.ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/fd249814bce947bc991d98c385e71888/proxymdres.jpg width=80% left
 
 `image src=https://npgallery.nps.gov/EDIS/GetAsset/fd249814bce947bc991d98c385e71888/proxymdres.jpg .left alt="Interior view of Glenmont’s first-floor Servant’s Hall and staircase, showing the service circulation area used by domestic staff." caption="Glenmont, interior, first floor, Servant’s Hall and staircase, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
 
@@ -148,7 +150,8 @@ Kitchen maids performed physically demanding work such as sweeping, tending fire
 Kitchen maintenance differed from other domestic zones. Surfaces required daily scrubbing. Floors were wiped repeatedly to control grease. Ranges demanded ash removal and fuel management. Pots, knives, and preparation tables were washed after each meal. The cook oversaw not only flavor but sanitation. As household manuals such as [*Mrs. Beeton’s Book of Household Management*](https://en.wikisource.org/wiki/Mrs._Beeton%27s_Book_of_Household_Management) suggest, the kitchen was imagined as a space where order, discipline, economy, and cleanliness had to be constantly maintained; specific instructions for kitchen work and household order appear throughout the text, including in [this digitized page view](https://en.wikisource.org/wiki/Page:Mrs_Beeton%27s_Book_of_Household_Management.djvu/2013). Salmon likewise underscored that a cook’s success depended upon order, cleanliness, punctuality, and economy—qualities that required mental organization as much as physical endurance. The labor was not episodic but cyclical and relentless. Unlike bedroom work, which erased the trace of sleep, kitchen work produced visible transformation: raw ingredients into prepared meals.
 
 ### The Butler and the Waitress: Navigating the Pantry and Dining Room
-{: .wrap}
+
+.ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/3bb190fa23b9431488e75e06f0a468de/proxyhires.jpg width=80% left
 
 `image src=https://npgallery.nps.gov/EDIS/GetAsset/3bb190fa23b9431488e75e06f0a468de/proxyhires.jpg .right alt="Interior view of Glenmont’s first-floor Butler’s Pantry, showing cabinetry, counter space, and service storage used in connection with dining room service." caption="Glenmont, interior, first floor, Butler’s Pantry, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
 
