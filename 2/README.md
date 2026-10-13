@@ -409,7 +409,7 @@ Laundry at Glenmont evolved alongside the house itself. The original laundry roo
 
 Between 1908 and 1912, Mrs. Michael Cox and Mrs. John Purdue were repeatedly paid for laundry labor in concentrated bursts. In February 1908, Mrs. Cox was paid for forty-two days at $1.25 per day, totaling $52.50. In March and April 1909, she worked forty-six combined days of “housecleaning and laundry,” earning $57.50. Mrs. Purdue’s compensation in 1909–1910 was often calculated at $1.50 per day, with stretches of twenty-eight or more days in a single month, amounting to $35 or more per cycle. These payments indicate wage labor performed in measured intervals rather than full-time live-in service. Laundry was accumulation-based: it surged after entertaining seasons, during spring cleaning, or before travel to Florida. Compensation by the day underscores the physical intensity of the work. At $1.25–$1.50 per day, a forty-day cycle could yield between $50 and $60—significant pay, but earned through prolonged manual exertion.
 
-.ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/d8f78dfc-4f12-47eb-843b-635f32b6dee6/proxyhires.jpg width=80% left caption="Glenmont, interior, first floor, Laundry Room, October 21, 1960."
+.ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/d8f78dfc4f1247eb843b635f32b6dee6/original.jpg? width=80% left caption="Glenmont, interior, first floor, Laundry Room, October 21, 1960."
 
 *About the image: Interior view of Glenmont’s first-floor Laundry Room, showing laundry tubs, pipes, work surfaces, and service-room finishes. October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
