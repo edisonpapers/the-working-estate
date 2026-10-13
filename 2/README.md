@@ -8,10 +8,12 @@
 
 # The Household at Work
 
+This section examines Glenmont as a working household. Its rooms, staircases, service areas, and circulation routes shaped how domestic workers moved through the estate, maintained family life, and supported the public and private functions of the Edison home.
+
 WORKING NOTE TO REMOVE - Sections include:
 
 - “Back of the House”: Domestic Work and Navigating the Estate
-- Kitchen Duty: Cooks, Maids, and Butlers
+    - Kitchen Duty: Cooks, Maids, and Butlers
 - Maintaining the Second Floor
 - Child Care & Intimacy Work
 - Laundry Work
@@ -23,8 +25,6 @@ Melissa, are you envisioning that these sections are set up on the top as cards 
 *About the image: Color-coded first-floor plan of Glenmont showing formal rooms, family spaces, and service spaces, including the kitchen, pantry, refrigerator room, laundry, service hall, and service dining room. Redrawn from NPS Drawing–NHS Edi. 331 Sheet 3. Drawn by John G. Baite, 1963. Room labels added by Melissa Benbow Flowers, 2026. Rooms color coded by Michael Faist, 2026. From Barbara A. Yocum, The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I (Lowell, MA: National Park Service, U.S. Department of the Interior, 1998), 211.*
 
 [Source: Barbara A. Yocum, *The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I*, p. 211.](https://npshistory.com/publications/edis/hsr-glenmont-v1.pdf#page=2.06)
-
-This section examines Glenmont as a working household. Its rooms, staircases, service areas, and circulation routes shaped how domestic workers moved through the estate, maintained family life, and supported the public and private functions of the Edison home.
 
 ## Sections
 {: .cards}
