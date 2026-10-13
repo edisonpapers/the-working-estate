@@ -26,8 +26,7 @@ Melissa, are you envisioning that these sections are set up on the top as cards 
 
 [Source: Barbara A. Yocum, *The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I*, p. 211.](https://npshistory.com/publications/edis/hsr-glenmont-v1.pdf#page=2.06)
 
-## Sections
-{: .cards}
+## Sections {.cards}
 
 ### “Back of the House”: Domestic Work and Navigating the Estate
 
