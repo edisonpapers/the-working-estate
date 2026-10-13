@@ -58,7 +58,7 @@ Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oa
 
 By marrying Thomas Edison, Mina joined a household that included Thomas's three children from his first marriage: Marion, Thomas Jr., and William, who were roughly twelve, ten, and eight years old. Over the next twelve years, the household grew with the births of Madeleine in 1888, Charles in 1890, and Theodore in 1898.
 
-*About the image: Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889. caption text= Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth, December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
+*About the image: Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
 
 ### Mina Edison and Her Children {.cards}
 Source: NPGallery
