@@ -18,9 +18,9 @@ WORKING NOTE TO REMOVE - Sections include:
 
 Melissa, are you envisioning that these sections are set up on the top as cards with an image that can be clicked on to jump down to that section on the page?
 
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/first-floor-plan-color-coded.jpg left width=80% caption="First Floor Plan" left 
 
-
-`image src=images/first-floor-plan-color-coded.jpg alt="Color-coded first-floor plan of Glenmont showing formal rooms, family spaces, and service spaces, including the kitchen, pantry, refrigerator room, laundry, service hall, and service dining room." caption="“First Floor Plan.” Redrawn from NPS Drawing–NHS Edi. 331 Sheet 3. Drawn by John G. Baite, 1963. Room labels added by Melissa Benbow Flowers, 2026. Rooms color coded by Michael Faist, 2026. From Barbara A. Yocum, The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I (Lowell, MA: National Park Service, U.S. Department of the Interior, 1998), 211."`
+*About the image: Color-coded first-floor plan of Glenmont showing formal rooms, family spaces, and service spaces, including the kitchen, pantry, refrigerator room, laundry, service hall, and service dining room. Redrawn from NPS Drawing–NHS Edi. 331 Sheet 3. Drawn by John G. Baite, 1963. Room labels added by Melissa Benbow Flowers, 2026. Rooms color coded by Michael Faist, 2026. From Barbara A. Yocum, The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I (Lowell, MA: National Park Service, U.S. Department of the Interior, 1998), 211.*
 
 [Source: Barbara A. Yocum, *The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I*, p. 211.](https://npshistory.com/publications/edis/hsr-glenmont-v1.pdf#page=2.06)
 
