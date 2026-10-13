@@ -60,7 +60,7 @@ With her marriage to Thomas Edison, Mina entered a household that already includ
 
 *About the image: Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889. caption text= Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth, December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
 
-## Mina Edison and her Children {.cards}
+## Mina Edison and Her Children {.cards}
 Source: NPGallery
 
 #### Mina Edison with infant, possibly Madeleine Edison
