@@ -411,6 +411,8 @@ Between 1908 and 1912, Mrs. Michael Cox and Mrs. John Purdue were repeatedly pai
 
 .ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/d8f78dfc4f1247eb843b635f32b6dee6/original.jpg? width=80% left caption="Glenmont, interior, first floor, Laundry Room, October 21, 1960."
 
+<img src="[https://npgallery.nps.gov/EDIS/GetAsset/d8f78dfc4f1247eb843b635f32b6dee6/proxyhires.jpg](https://npgallery.nps.gov/EDIS/GetAsset/d8f78dfc4f1247eb843b635f32b6dee6/proxyhires.jpg)" alt="Glenmont interior">.
+
 *About the image: Interior view of Glenmont’s first-floor Laundry Room, showing laundry tubs, pipes, work surfaces, and service-room finishes. October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Laundry Room.”](https://npgallery.nps.gov/EDIS/AssetDetail/d8f78dfc-4f12-47eb-843b-635f32b6dee6)
