@@ -30,40 +30,44 @@ Melissa, are you envisioning that these sections are set up on the top as cards 
 
 ### “Back of the House”: Domestic Work and Navigating the Estate
 
-[](back-of-the-house.md)
-
 ![Glenmont, interior, first floor, Servant's Hall and staircase.](https://npgallery.nps.gov/EDIS/GetAsset/50cbb47432da45e392d9dcfee8ee37d4/proxymdres.jpg)
 
 The service hall, back staircase, kitchen, pantry, and servants’ dining room shaped how domestic workers navigated the house while supporting the household’s daily routines.
 
+*Add link to jump to Back of the House Section*
+
 ### Maintaining the Second Floor
 
-[](maintaining-the-second-floor.md)
 
 ![Glenmont, interior, second floor, upper main hall, facing northeast.](https://npgallery.nps.gov/EDIS/GetAsset/d68355392f264dd18cf81f628d26d789/proxymdres.jpg)
 
 The second floor required ongoing labor connected to bedrooms, bathrooms, linens, cleaning, privacy, and the maintenance of family life.
 
-### Child Care & Intimacy Work
+*Add link to jump to Maintaining the Second Floor Section*
 
-[](child-care-and-intimacy-work.md)
+### Child Care & Intimacy Work
 
 ![Madeleine Edison with Nurse Helena McCarthy and possibly Charles Edison in a stroller.](https://npgallery.nps.gov/EDIS/GetAsset/40670a420a5b439cb4e84109e1535c7f/proxymdres.jpg)
 
 Child care at Glenmont was intimate household labor, requiring trust, proximity, and daily care for the Edison children across the changing stages of family life.
 
-### Laundry
+*Add link to jump to Child Care & Intimacy Work Section*
 
-[](laundry.md)
+### Laundry
 
 ![Glenmont, interior, first floor, Laundry Room.](https://npgallery.nps.gov/EDIS/GetAsset/d8f78dfc4f1247eb843b635f32b6dee6/proxymdres.jpg)
 
 Laundry work connected the household’s service spaces to the repeated labor of washing, drying, ironing, mending, and renewing the textiles that sustained daily life.
 
+*Add link to jump to Laundry Section*
+
+
 ## “Back of the House”: Domestic Work and Navigating the Glenmont Estate
 {: .wrap}
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/50cbb47432da45e392d9dcfee8ee37d4/proxymdres.jpg .right alt="Interior view of Glenmont’s first-floor Servant’s Hall and staircase." caption="Glenmont, interior, first floor, Servant’s Hall and staircase, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/50cbb47432da45e392d9dcfee8ee37d4/proxymdres.jpg .right width=60% caption="Glenmont, interior, first floor"
+
+*About the image: Interior view of Glenmont’s first-floor Servant’s Hall and staircase Servant’s Hall and staircase, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Servant’s Hall and staircase.”](https://npgallery.nps.gov/EDIS/AssetDetail/50cbb474-32da-45e3-92d9-dcfee8ee37d4)
 
