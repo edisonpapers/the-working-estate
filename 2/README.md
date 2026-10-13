@@ -94,7 +94,9 @@ Mary McMahon’s work as cook required knowledge of household tools, kitchen equ
 
 ### Collaboration with the Home Executive
 
-`image #d8614m manifest=https://edisondigital.rutgers.edu/iiif/2/D8614M/manifest .right alt="Letter from Mina A. Edison to Samuel Insull dated August 30, 1886, discussing dinner preparations at Glenmont and asking Insull to relay instructions to Lena, the upstairs girl, and Mary, the cook." caption="Mina A. Edison to Samuel Insull, August 30, 1886. In this letter, Edison asks Insull to coordinate dinner preparations at Glenmont with Lena, described as the upstairs girl, and Mary, the cook. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: D8614M."`
+.ve-media default:https%3A//edisondigital.rutgers.edu/iiif/2/D8614M/manifest width=80% right 
+
+alt="Letter from Mina A. Edison to Samuel Insull dated August 30, 1886, discussing dinner preparations at Glenmont and asking Insull to relay instructions to Lena, the upstairs girl, and Mary, the cook." caption="Mina A. Edison to Samuel Insull, August 30, 1886. In this letter, Edison asks Insull to coordinate dinner preparations at Glenmont with Lena, described as the upstairs girl, and Mary, the cook. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: D8614M."`
 
 [Source: Thomas A. Edison Papers Digital Edition, Rutgers University, Document D8614M](https://edisondigital.rutgers.edu/document/D8614M)
 
