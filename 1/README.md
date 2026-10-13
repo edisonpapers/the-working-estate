@@ -15,11 +15,11 @@ TECH/WORKING NOTE TO REMOVE - Sections in outline not included in markdown:
 
 ------------------------------
 
-## Glenmont as a Working estate
+## Glenmont as a Working Estate
 
 .ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/glenmont-estate-plan.png left width=80%  caption="Cultural Landscape Inventory: Glenmont Estate" left
 
-The Glenmont estate, located near the intersection of Park Way and Honeysuckle Avenue, was part of Llewellyn Park, America’s first gated community. Soon after purchasing the estate for Mina Edison, Thomas Edison acquired nearby land to build his West Orange laboratory, which was operational by 1887, transforming the area into a busy industrial hub.
+The Glenmont estate, located near the intersection of Park Way and Honeysuckle Avenue, is part of Llewellyn Park, America’s first gated community. Soon after purchasing the estate for Mina Edison, Thomas Edison bought nearby land to build his West Orange laboratory, which was operational by 1887 and transformed the area into a busy industrial hub.
 
 *About the image: Glenmont estate plan showing seven landscape zones. Source: [Cultural Landscape Inventory: Glenmont Estate](https://npshistory.com/publications/edis/cli-glenmont-estate.pdf), p. 76.*
 
@@ -41,13 +41,13 @@ The main house at Glenmont Estate contains twenty-nine principal rooms, not incl
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg width=80% right caption="NPS"
 
-The service wing, in what will be called the back of the house, consisted of the kitchen, pantry, and servants’ dining room. This section of the home also had a back staircase that domestic staff used to access the other floors of the house.
+The service wing, called the back of the house, included the kitchen, pantry, and servants’ dining room. This section of the home also had a back staircase that domestic staff used to access the other floors.
 
 *About the image: Glenmont, exterior, side and driveway to entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection.*
 
 .ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/a5354a92f2e84fb18a699d0b3d2bac84/proxymdres.jpg width=80% left caption="Portrait of Mina Edison and Thomas Edison, 1908."
 
-Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oak Place, Mina’s childhood home, in Akron, Ohio. Thomas, who was thirty-nine, had lost his first wife, Mary Stilwell, two years prior. Mina, who was twenty, had recently completed her education at Miss Abby H. Johnson’s Home and Day School for Young Ladies in Boston. As a wedding gift, Thomas asked Mina to choose between a home in New York City and the former Pedder estate in Llewellyn Park, New Jersey. She chose the latter, and the couple moved into their new home in April of the same year.
+Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oak Place, Mina’s childhood home, in Akron, Ohio. Thomas, who was thirty-nine, had lost his first wife, Mary Stilwell, two years prior. Mina, who was twenty years old, had recently completed her education at Miss Abby H. Johnson’s Home and Day School for Young Ladies in Boston. As a wedding gift, Thomas asked Mina to choose between a home in New York City and the former Pedder estate [WHEN DID THE PEDDER ESTATE BECOME THE GLENMONT ESTATE] in Llewellyn Park, New Jersey. She chose the latter, and the couple moved into their new home that April.
 
 *About the image: Portrait of Mina Edison and Thomas Edison seated together in 1908; Mina appears on the left wearing pearls, and Thomas Edison appears on the right in formal dress. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Source: NPGallery, “Portrait of Mina Edison and Thomas Edison”*
 
@@ -56,7 +56,7 @@ Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oa
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/4c49ee07729846269e9a1be69d12fbdf/proxymdres.jpg right width=80% caption="Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at home of Mr. Mamroth" 
 
-With her marriage to Thomas Edison, Mina entered a household that already included his three children from his first marriage: Marion, Thomas Jr., and William, who were roughly twelve, ten, and eight years old. Over the next twelve years, the household continued to grow with the births of Madeleine in 1888, Charles in 1890, and Theodore in 1898.
+By marrying Thomas Edison, Mina joined a household that included Thomas's three children from his first marriage: Marion, Thomas Jr., and William, who were roughly twelve, ten, and eight years old. Over the next twelve years, the household continued to grow with the births of Madeleine in 1888, Charles in 1890, and Theodore in 1898.
 
 *About the image: Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889. caption text= Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth, December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
 
@@ -84,17 +84,17 @@ Portrait of Mina Edison, Charles Edison, Madeleine Edison, Theodore Edison, Lucy
 
 ## Mina Edison, Domestic Education, and Household Management
 
-Mina’s preparation for the role of mother and home management began with the example set by her mother, Mary Valinda, and continued with her time at a Boston finishing school. Her experience at the Chautauqua Assembly, the educational and religious institution co-founded by her father, exposed her to Mrs. Emma P. Ewing, who gave participants practical training in kitchen work, hygiene, food testing, breadmaking, sauces, dressings, and refined meal service. These experiences helped shape the way Mina approached domestic management: as a disciplined, intellectualized, and socially significant form of labor.
+Mina’s preparation for motherhood and home management began with the example set by her mother, Mary Valinda, and continued at a Boston finishing school. Her experience at the Chautauqua Assembly, the educational and religious institution her father co-founded, introduced her to Mrs. Emma P. Ewing, who gave participants practical training in kitchen work, hygiene, food testing, breadmaking, sauces, dressings, and refined meal service. These experiences shaped how Mina approached domestic management: as a disciplined, intellectualized, and socially significant form of labor.
 
 ### Glenmont: A Representation of the Edison Legacy
 
 .ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-Glenmont_1891.jpg left width=80%
 
-The Glenmont Estate was multifunctional: it was a private residence, a semi-public entertainment space, and a symbol of the Edison family's socio-economic status. The domestic labor of the women and men who lived on the estate were essential to its functioning as a multipurpose property, especially in the years before semi-public and private gatherings were delegated to hotels and lodges, restaurants, and other spaces in the hospitality realm, as a public-private space of a family.  
+The Glenmont Estate was multifunctional: it served as a private residence, a semi-public entertainment space, and a symbol of the Edison family's socioeconomic status. The domestic labor of the women and men who lived on the estate was essential to its operation as a public-private space, especially before semi-public and large private gatherings were delegated to hotels, lodges, restaurants, and other hospitality spaces
 
-Over the sixty years of their life at Glenmont  a myriad of societal changes, including immigration, demographic shifts, and women's labor, shaped the lives of the Edison family. As one of foremost American inventors, the experience of domestic workers at Glenmont was shaped by electrification, unique requirements in hosting, and geographic determinants, such as proximity to New York City and Ellis Island. 
+During the sixty years America's foremost inventor and his family lived at Glenmont, electrification, the demands of hosting, and the estate’s proximity to New York City and Ellis Island shaped the experiences of their domestic workers. Broader societal changes—including immigration, demographic shifts, and women's labor—also influenced their lives.
 
-*About the image: Black-and-white illustrated composite of Glenmont interiors, including views of a room with a fireplace, an interior hall or stair area, and a larger furnished room. The image is labeled Interior Sketches from the Residence of Thos. Edison, Esq., Orange, N.J." caption="Interior sketches from the residence of Thomas Edison, Glenmont, Orange, New Jersey. Image credit: National Park Service, Thomas Edison National Historical Park. Source: [The House at Glenmont, Volume 2: Furnishing Plan](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf#page=251), pp. 252–256.*
+*About the image: Black-and-white illustrated composite of Glenmont interiors, including views of a room with a fireplace, an interior hall or stair area, and a larger furnished room. The image is labeled Interior Sketches from the Residence of Thos. Edison, Esq., Orange, N.J." Image credit: National Park Service, Thomas Edison National Historical Park. Source: [The House at Glenmont, Volume 2: Furnishing Plan](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf#page=251), pp. 252–256.*
 
 ## Mina Edison as “Home Executive”
 
@@ -102,7 +102,7 @@ Over the sixty years of their life at Glenmont  a myriad of societal changes, in
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg width=80% right Caption="Portrait of Mina Edison seated in the Conservatory at Glenmont"
 
-Mina Miller Edison’s role at Glenmont was central to the functioning of the Edison household. While Edison remained absorbed in his laboratory work and scientific enterprises, Mina assumed responsibility for the domestic and administrative management of Glenmont and, later, Seminole Lodge in Fort Myers, Florida. Her work included planning meals, supervising domestic employees, ordering supplies, arranging repairs and improvements, reviewing household accounts, and signing checks.
+Mina Miller Edison’s role at Glenmont was central to the Edison household. While Edison remained absorbed in his laboratory work and scientific enterprises, Mina managed Glenmont's domestic and administrative affairs and, later, Seminole Lodge in Fort Myers, Florida. Her work included planning meals, supervising domestic employees, ordering supplies, arranging repairs and improvements, reviewing household accounts, and signing checks.
 
 *About the image: Portrait of Mina Edison seated in the Conservatory at Glenmont. caption/underneath text: =Portrait of Mina Edison, seated in the Conservatory at Glenmont. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain. NPGallery Asset ID: 2429bd7f08364833a083e570482f5358*
 
