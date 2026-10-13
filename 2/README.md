@@ -401,7 +401,7 @@ Laundry at Glenmont evolved alongside the house itself. The original laundry roo
 
 [Source: Barbara A. Yocum, *The House at Glenmont: Historic Structure Report, Edison National Historic Site, West Orange, New Jersey, Volume I*](https://npshistory.com/publications/edis/hsr-glenmont-v1.pdf)
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg width=80% right caption="Glenmont, exterior, side and driveway to entrance, October 21, 1960. "
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg width=80% right caption="Glenmont, exterior, side and driveway to entrance, October 21, 1960."
 
 *About the image: Exterior view of Glenmont showing the side of the house and driveway entrance near the service wing. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
