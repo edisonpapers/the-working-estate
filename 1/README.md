@@ -108,7 +108,7 @@ Mina Miller Edison’s role at Glenmont was central to the functioning of the Ed
 
 ### The Meaning of “Home Executive”
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg left caption="Mina Edison standing outside at Glenmont, circa 1935. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain."`
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg left caption="Mina Edison standing outside at Glenmont"
 
 This role aligned with late nineteenth-century expectations for upper-middle-class wives, but Mina also understood household management as skilled executive labor. Reflecting on the inadequacy of the term “housewife,” she argued that a married woman should instead be understood as a “home executive,” a phrase that better captured the managerial authority and constructive work required to run a household of this scale.
 
