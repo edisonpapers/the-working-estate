@@ -56,18 +56,18 @@ Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oa
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/4c49ee07729846269e9a1be69d12fbdf/proxymdres.jpg right width=80% caption="Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at home of Mr. Mamroth" 
 
-By marrying Thomas Edison, Mina joined a household that included Thomas's three children from his first marriage: Marion, Thomas Jr., and William, who were roughly twelve, ten, and eight years old. Over the next twelve years, the household continued to grow with the births of Madeleine in 1888, Charles in 1890, and Theodore in 1898.
+By marrying Thomas Edison, Mina joined a household that included Thomas's three children from his first marriage: Marion, Thomas Jr., and William, who were roughly twelve, ten, and eight years old. Over the next twelve years, the household grew with the births of Madeleine in 1888, Charles in 1890, and Theodore in 1898.
 
 *About the image: Black-and-white group photograph of Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth in December 1889. caption text= Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at the home of Mr. Mamroth, December 1889. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.*
 
-## Mina Edison and Her Children {.cards}
+### Mina Edison and Her Children {.cards}
 Source: NPGallery
 
 #### Mina Edison with infant, possibly Madeleine Edison
 
 ![](https://npgallery.nps.gov/EDIS/GetAsset/e2f89d6dda07464db48aa3d9732a539e/proxymdres.jpg)
 
-Mina Edison holding infant, possibly Madeleine Edison, circa 1880s. Photograph by Benjamin Falk, 949 Broadway, New York. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.
+Mina Edison holding an infant, possibly Madeleine Edison, circa 1880s. Photograph by Benjamin Falk, 949 Broadway, New York. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain.
 
 #### Madeleine Edison, Mina Edison, and Charles Edison
 
