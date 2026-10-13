@@ -94,15 +94,9 @@ Mary McMahon’s work as cook required knowledge of household tools, kitchen equ
 
 ### Collaboration with the Home Executive
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/D8614M width=60%
-
-*About this document: Letter from Mina A. Edison to Samuel Insull dated August 30, 1886, discussing dinner preparations at Glenmont and asking Insull to relay instructions to Lena, the upstairs girl, and Mary, the cook. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: D8614M.*
-
-[Source: Thomas A. Edison Papers Digital Edition, Rutgers University, Document D8614M](https://edisondigital.rutgers.edu/document/D8614M)
-
 Mina Edison’s instructions to Samuel Insull reveal how domestic management at Glenmont depended on communication across household hierarchy. In this letter, Mina directs Insull to pass instructions to Lena and Mary, linking her own role as household manager to the labor of the women who prepared, arranged, and served meals.
 
-#### Transcription
+.ve-media https://edisondigital.rutgers.edu/iiif/2/D8614M width=80% right
 
 Oak Place, Aug. 30/86
 
@@ -127,6 +121,10 @@ I hope that you have been well treated while at Glenmont.
 Thanking you for your kind service, I am yours sincerely,
 
 Mina A. Edison
+
+*About this document: Letter from Mina A. Edison to Samuel Insull dated August 30, 1886, discussing dinner preparations at Glenmont and asking Insull to relay instructions to Lena, the upstairs girl, and Mary, the cook. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: D8614M.*
+
+[Source: Thomas A. Edison Papers Digital Edition, Rutgers University, Document D8614M](https://edisondigital.rutgers.edu/document/D8614M)
 
 #### Kitchen Maintenance: Kitchen Maids and Daily Work
 
