@@ -54,7 +54,7 @@ Laundry work connected the household’s service spaces to the repeated labor of
 
 ## “Back of the House”: Domestic Work and Navigating the Glenmont Estate
 
-.ve-media default:https:npgallery.nps.gov/EDIS/GetAsset/50cbb47432da45e392d9dcfee8ee37d4/proxymdres.jpg width=80% right caption="Glenmont, interior, first floor"
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/50cbb47432da45e392d9dcfee8ee37d4/proxymdres.jpg width=80% right caption="Glenmont, interior, first floor"
 
 *About the image: Interior view of Glenmont’s first-floor Servant’s Hall and staircase Servant’s Hall and staircase, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
