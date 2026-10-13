@@ -63,7 +63,6 @@ Laundry work connected the household’s service spaces to the repeated labor of
 
 
 ## “Back of the House”: Domestic Work and Navigating the Glenmont Estate
-{: .wrap}
 
 .ve-media default:https:npgallery.nps.gov/EDIS/GetAsset/50cbb47432da45e392d9dcfee8ee37d4/proxymdres.jpg width=80% right caption="Glenmont, interior, first floor"
 
@@ -75,7 +74,7 @@ Women comprised most of the salaried employees who worked within the Glenmont ho
 
 .ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/fd249814bce947bc991d98c385e71888/proxymdres.jpg width=80% left
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/fd249814bce947bc991d98c385e71888/proxymdres.jpg .left alt="Interior view of Glenmont’s first-floor Servant’s Hall and staircase, showing the service circulation area used by domestic staff." caption="Glenmont, interior, first floor, Servant’s Hall and staircase, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+*About the image: Interior view of Glenmont’s first-floor Servant’s Hall and staircase, showing the service circulation area used by domestic staff. October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Servant’s Hall and staircase.”](https://npgallery.nps.gov/EDIS/AssetDetail/fd249814-bce9-47bc-991d-98c385e71888)
 
@@ -84,7 +83,6 @@ Domestic workers generally occupied spaces intentionally separated from the form
 <!-- Image needed: servant’s uniform. Possible use: place near discussion of staff roles, presentation, hierarchy, and visibility/invisibility of domestic labor. -->
 
 ### Kitchen Duty: Cooks, Maids, and Butlers
-{: .wrap}
 
 `image #kitchen-duty src=images/kitchen-refrigerator-room-glenmont.png .right showannos alt="Line drawing of Glenmont’s first-floor kitchen and refrigerator room, showing the sink and drainboard, central worktable, storage cabinets, cooking range and hood, refrigerator room, and service work areas." caption="Rooms 107 and 107a, Kitchen and Refrigerator Room, Glenmont, first floor. This drawing shows the kitchen work areas, including the sink and drainboard, central worktable, storage cabinets, cooking range and hood, and adjacent refrigerator room. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
 
@@ -105,7 +103,6 @@ In 1900, Mary Flaherty appears in the federal census as the Edison household coo
 Mary McMahon’s work as cook required knowledge of household tools, kitchen equipment, food preparation, and provisioning. A 1900 Kinch Hardware Company advertisement from *The Atlanta Journal* illustrates the range of kitchen and household goods available to consumers at the turn of the century. [View “Shopping Made Easy” advertisement, *The Atlanta Journal*, March 29, 1900](images/shopping-made-easy-atlanta-journal-1900.jpg).
 
 ### Collaboration with the Home Executive
-{: .wrap}
 
 `image #d8614m manifest=https://edisondigital.rutgers.edu/iiif/2/D8614M/manifest .right alt="Letter from Mina A. Edison to Samuel Insull dated August 30, 1886, discussing dinner preparations at Glenmont and asking Insull to relay instructions to Lena, the upstairs girl, and Mary, the cook." caption="Mina A. Edison to Samuel Insull, August 30, 1886. In this letter, Edison asks Insull to coordinate dinner preparations at Glenmont with Lena, described as the upstairs girl, and Mary, the cook. Thomas A. Edison Papers Digital Edition, Rutgers University. Document ID: D8614M."`
 
@@ -153,7 +150,7 @@ Kitchen maintenance differed from other domestic zones. Surfaces required daily 
 
 .ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/3bb190fa23b9431488e75e06f0a468de/proxyhires.jpg width=80% left
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/3bb190fa23b9431488e75e06f0a468de/proxyhires.jpg .right alt="Interior view of Glenmont’s first-floor Butler’s Pantry, showing cabinetry, counter space, and service storage used in connection with dining room service." caption="Glenmont, interior, first floor, Butler’s Pantry, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+*About the image: Interior view of Glenmont’s first-floor Butler’s Pantry, showing cabinetry, counter space, and service storage used in connection with dining room service. October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Butler’s Pantry.”](https://npgallery.nps.gov/EDIS/AssetDetail/3bb190fa-23b9-4314-88e7-5e06f0a468de)
 
@@ -161,14 +158,15 @@ The butler occupied a distinct position within Glenmont’s labor hierarchy. Unl
 
 Census records trace the continuity of this role across decades. In 1905, William Minor, a twenty-five-year-old Virginia-born butler, served the Edison household. That same year, Michael Flaherty, a naturalized Irish immigrant, worked as assistant butler. By 1910, Waldo Schaar, a German-born immigrant listed as an alien, had assumed the position. In 1940, Henry Horsey, born in England and employed full-time for fifty-two weeks of the year, earned $1,300 serving Mina Edison as butler. Though individuals changed, the role endured.
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/b1e01c9c58ca4832829dfbea67565d83/proxyhires.jpg .left alt="Interior view of Glenmont’s first-floor Dining Room with plates and silverware stacked on the table for the wedding of Grace Miller, Mina Edison’s sister." caption="Glenmont, interior, first floor, Dining Room, with plates and silverware stacked on the table for the wedding of Grace Miller, sister of Mina Edison, February 15, 1916. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+.ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/b1e01c9c58ca4832829dfbea67565d83/proxyhires.jpg width=80% left caption="Glenmont, interior, first floor, Dining Room"
+
+*About the image: Interior view of Glenmont’s first-floor Dining Room with plates and silverware stacked on the table for the wedding of Grace Miller, Mina Edison’s sister. February 15, 1916. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Dining Room, plates and silverware stacked on table on the occasion of the wedding of Grace Miller, sister of Mina Edison.”](https://npgallery.nps.gov/EDIS/AssetDetail/b1e01c9c-58ca-4832-829d-fbea67565d83)
 
 Early twentieth-century manuals defined the responsibilities of a dining-room waitress with exacting detail. In *The Up-to-Date Waitress*, first published in 1906, Janet McKenzie Hill outlined the daily and weekly care required to maintain a properly ordered dining room. Each morning, a fire was to be laid ready for lighting. The hearth brushed. Brass and steel polished with a dry cloth. Rugs swept carefully “with the nap,” hardwood borders wiped clean, and dust collected—not scattered—with cheesecloth. Windows were opened to air the room thoroughly.
 
 ### The Butler and the Waitress: Visibility, Service, and the Dining Room
-{: .wrap}
 
 Johanna, remembered by Mina’s secretary Lynn Given in a 1990 interview as “the German waitress,” worked in one of the most visible rooms of Glenmont—the dining room. While others labored in kitchens or private chambers, Johanna’s work unfolded at the threshold between family and guest. She was present when meals were served, yet her presence was meant to dissolve into the background. A contemporary [idealized image of a maid or waitress in domestic service](https://www.thehenryford.org/collections/explore/artifact/480947?AssetId=THF290826), preserved by The Henry Ford, suggests how early twentieth-century visual culture often represented women servants as orderly, efficient, and quietly attentive.
 
@@ -213,7 +211,10 @@ Mina’s correspondence reveals how carefully this balance was maintained. In a 
 
 {: .wrap}
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/d68355392f264dd18cf81f628d26d789/proxyhires.jpg .right alt="Interior view of Glenmont’s second-floor upper main hall, facing northeast." caption="Glenmont, interior, second floor, upper main hall, facing northeast, August 28, 1947. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+
+.ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/d68355392f264dd18cf81f628d26d789/proxyhires.jpg width=80% right caption="Glenmont, interior, second floor, upper main hall, facing northeast"
+
+*About the Image: Interior view of Glenmont’s second-floor upper main hall, facing northeast. August 28, 1947. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, second floor, upper main hall, facing northeast.”](https://npgallery.nps.gov/EDIS/AssetDetail/d6835539-2f26-4dd1-8cf8-1f628d26d789)
 
@@ -222,21 +223,20 @@ The second floor was a family-only zone that nonetheless required constant maint
 The second floor thus represents a paradox of elite domestic life: the more famous the family, the more carefully privacy had to be constructed. That construction depended on servants who were visible in duty yet invisible in effect. Their labor softened footsteps, reduced spectacle, and ensured that even in a house frequently open to the world, the family could preserve a level of seclusion.
 
 ### Cleaning the Family Bedrooms
-{: .wrap}
 
 `image src=images/edison-bedroom-drawing.jpg .right alt="Drawing of the Edison Bedroom at Glenmont, showing the large family bedroom with fireplace, seating, curtains, and adjoining domestic space." caption="Room 203, Edison Bedroom. Drawing of the Edison Bedroom at Glenmont. From The House at Glenmont, Volume II, p. 73 of 644. Image credit: National Park Service, Thomas Edison National Historical Park. Source: [The House at Glenmont, Volume II](https://npshistory.com/publications/edis/hfr-glenmont-v2.pdf#page=251.08)."`
 
 The second floor demanded a form of labor that was both intimate and disciplined. Bedrooms had to be aired, beds remade, dressing areas maintained, and textiles kept in orderly rotation. Unlike the public spaces below, family bedrooms were not staged for guests, but they were no less carefully managed. Their maintenance depended on workers whose presence was meant to disappear into the finished order of the room.
 
 #### Martha Michel – Mina Edison’s Personal Maid
-{: .wrap}
 
 On the second floor and in the adjoining sewing spaces, Martha Michel’s work unfolded in intimate proximity to the family. Remembered by Lynn Given as Madam Edison’s Swiss personal maid, Martha shared workspace with Given on the third floor and moved freely between bedrooms, dressing rooms, and private quarters. She sewed, ironed, and managed clothing; she prepared personal items and traveled regularly with the Edisons to Fort Myers, riding in the car with Edison himself while other staff took the train. Mina's secretary Lynn recalled her fierce wit and sharp humor, though formal boundaries remained intact: “I couldn’t really be as casual with her as I would love to have been.” Martha’s labor was more intimate than that of the waitress or houseman—but still structured by hierarchy.
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/d807142d4de84f24befe93cfcb825231/proxyhires.jpg .left alt="Historic interior image associated with second-floor domestic work and the maintenance of family bedrooms at Glenmont." caption="Historic image associated with upper-floor domestic work at Glenmont. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain. Source: [NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/d807142d-4de8-4f24-befe-93cfcb825231)."`
+.ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/d807142d4de84f24befe93cfcb825231/proxyhires.jpg width=80% left caption="Historic image associated with upper-floor domestic work at Glenmont."
+
+*About the image: Historic interior image associated with second-floor domestic work and the maintenance of family bedrooms at Glenmont. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain. Source: [NPGallery](https://npgallery.nps.gov/EDIS/AssetDetail/d807142d-4de8-4f24-befe-93cfcb825231).*
 
 #### Mollie Schaar — General Servant
-{: .wrap}
 
 Mollie C. Schaar, a 45-year-old Swedish-born widow recorded in the 1910 federal census, represents the elastic category of “servant.” Born in Sweden around 1865 and immigrating in 1880, Mollie was fully literate, English-speaking, and steadily employed as a wage earner in private domestic service. Unlike the more specialized roles of chambermaid or parlor maid, Mollie’s labor likely moved across floors. General servants often maintained staircases and hallways, assisted with rug beating, carried linens between laundry and bedrooms, and absorbed overflow work during illness or heavy entertaining seasons. She would have supported Julia in deeper cleaning cycles and reinforced first-floor readiness when guest activity increased. If Jennie worked where guests saw and Julia worked where family slept, Mollie worked in the connective tissue of the house—circulation spaces, upper halls, and the third-floor servant quarters. Her labor was infrastructural: stabilizing the house after disruption, sustaining continuity between rooms, and ensuring that more specialized work could proceed smoothly.
 
