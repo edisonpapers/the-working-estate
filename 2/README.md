@@ -8,6 +8,8 @@
 
 # The Household at Work
 
+.ve-media default:https:npgallery.nps.gov/EDIS/GetAsset/50cbb47432da45e392d9dcfee8ee37d4/proxymdres.jpg width=80% right caption="Glenmont, interior, first floor"
+
 This section examines Glenmont as a working household. Its rooms, staircases, service areas, and circulation routes shaped how domestic workers moved through the estate, maintained family life, and supported the public and private functions of the Edison home.
 
 WORKING NOTE TO REMOVE - Sections include:
