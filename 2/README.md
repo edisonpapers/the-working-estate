@@ -10,7 +10,7 @@
 
 This section examines Glenmont as a working household. Its rooms, staircases, service areas, and circulation routes shaped how domestic workers moved through the estate, maintained family life, and supported the public and private functions of the Edison home.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/first-floor-plan-color-coded.jpg left width=80% caption="First Floor Plan" left 
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/first-floor-plan-color-coded.jpg left width=80% caption="First Floor Plan" 
 
 *About the image: Color-coded first-floor plan of Glenmont showing formal rooms, family spaces, and service spaces, including the kitchen, pantry, refrigerator room, laundry, service hall, and service dining room. Redrawn from NPS Drawing–NHS Edi. 331 Sheet 3. Drawn by John G. Baite, 1963. Room labels added by Melissa Benbow Flowers, 2026. Rooms color coded by Michael Faist, 2026.*
 
