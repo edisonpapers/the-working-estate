@@ -104,7 +104,7 @@ During the sixty years America's foremost inventor and his family lived at Glenm
 
 Mina Miller Edison’s role at Glenmont was central to the Edison household. While Edison remained absorbed in his laboratory work and scientific enterprises, Mina managed Glenmont's domestic and administrative affairs and, later, Seminole Lodge in Fort Myers, Florida. Her work included planning meals, supervising domestic employees, ordering supplies, arranging repairs and improvements, reviewing household accounts, and signing checks.
 
-*About the image: Portrait of Mina Edison seated in the Conservatory at Glenmont. caption/underneath text: =Portrait of Mina Edison, seated in the Conservatory at Glenmont. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain. NPGallery Asset ID: 2429bd7f08364833a083e570482f5358*
+*About the image: Portrait of Mina Edison seated in the Conservatory at Glenmont. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection. Public domain. NPGallery Asset ID: 2429bd7f08364833a083e570482f5358*
 
 ### The Meaning of “Home Executive”
 
