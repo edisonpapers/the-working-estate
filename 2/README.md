@@ -72,7 +72,7 @@ Laundry work connected the household’s service spaces to the repeated labor of
 
 Women comprised most of the salaried employees who worked within the Glenmont household. Throughout the late nineteenth and early twentieth centuries, the composition of the domestic staff shifted according to the family’s needs, finances, and the availability of workers. Payroll records indicate that the household commonly employed a cook, waitress, maid, nurse, and laundress during the early 1890s, though Mina Edison periodically reduced or expanded the staff. By the late 1890s and early twentieth century, more specialized positions emerged, including chambermaids, kitchen maids, companions, and personal maids.
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/fd249814bce947bc991d98c385e71888/proxymdres.jpg width=80% left
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg width=80% left
 
 *About the image: Interior view of Glenmont’s first-floor Servant’s Hall and staircase, showing the service circulation area used by domestic staff. October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
