@@ -1,4 +1,4 @@
-.ve-header "The Working Estate​" default:https%3A//raw.githubusercontent.com/edisonpapers/media/refs/heads/main/unseen/frontpage/glenmont.jpg "Routine and Domestic Labor at Glenmont, 1886–1947" full center sticky
+.ve-header "The Working Estate​" https://edisondigital.rutgers.edu/iiif/2/570345 "Routine and Domestic Labor at Glenmont, 1886–1947" full center sticky
     - [Home](/)
     - [Glenmont, the Working Estate](/1)
     - [The Household at Work](/2)
