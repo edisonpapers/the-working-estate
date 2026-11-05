@@ -1,4 +1,4 @@
-.ve-header "The Working Estate​" default:https%3A//raw.githubusercontent.com/edisonpapers/media/refs/heads/main/unseen/frontpage/glenmont.jpg "Routine and Domestic Labor at Glenmont, 1886–1947" full center sticky
+.ve-header "The Working Estate​" https://edisondigital.rutgers.edu/iiif/2/570345 "Routine and Domestic Labor at Glenmont, 1886–1947" full center sticky 
     - [Home](/)
     - [Glenmont, the Working Estate](/1)
     - [The Household at Work](/2)
@@ -25,7 +25,7 @@ The Glenmont estate, located near the intersection of Park Way and Honeysuckle A
 
 ##
 
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/west-orange-robinson-atlas-1890.png right width=80% caption="Atlas of Essex County, New Jersey, 1890."
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570347 right width=80% caption="Atlas of Essex County, New Jersey, 1890."
 
 The property included numerous outbuildings, a greenhouse, a small farm, the Gardener’s Cottage, the Potting Shed, the Garage, and extensive landscaped grounds. The Gardener’s Cottage was added in 1908, and construction on the Potting Shed began in 1906.
 
@@ -33,19 +33,19 @@ The property included numerous outbuildings, a greenhouse, a small farm, the Gar
 
 ## 
 
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/nps-glenmont-estate-map.png left left width=80% caption="National Park Service, “Glenmont”"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570349 left left width=80% caption="National Park Service, “Glenmont”"
 
 The main house at Glenmont Estate contains twenty-nine principal rooms, not including closets and secondary service spaces. The third floor contained the servants’ bedrooms, the former children’s nursery, extra guest bedrooms, and attic space. The second floor contained the family’s bedrooms, bathrooms, and living spaces. The first floor included the main entry, reception spaces, staircase, and formal rooms for hosting guests. The cellar contained the boiler room, coal rooms, store room, pump room, wood room, and ash room.
 
 *About the image: Map of Glenmont Estate labeling the Edison Home and surrounding estate features, greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, Edison gravesite, Park Way, Honeysuckle Road, and areas closed to the public.*
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/aefd338804674304ac03512377df1d18/proxyhires.jpg width=80% right caption="NPS"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570351 width=80% right caption="NPS"
 
 The service wing, called the back of the house, included the kitchen, pantry, and servants’ dining room. This section of the home also had a back staircase that domestic staff used to access the other floors.
 
 *About the image: Glenmont, exterior, side and driveway to entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection.*
 
-.ve-media default:https://npgallery.nps.gov/EDIS/GetAsset/a5354a92f2e84fb18a699d0b3d2bac84/proxymdres.jpg width=80% left caption="Portrait of Mina Edison and Thomas Edison, 1908."
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570353 width=80% left caption="Portrait of Mina Edison and Thomas Edison, 1908."
 
 Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oak Place, Mina’s childhood home, in Akron, Ohio. Thomas, who was thirty-nine, had lost his first wife, Mary Stilwell, two years prior. Mina, who was twenty years old, had recently completed her education at Miss Abby H. Johnson’s Home and Day School for Young Ladies in Boston. As a wedding gift, Thomas asked Mina to choose between a home in New York City and the former Pedder estate [WHEN DID THE PEDDER ESTATE BECOME THE GLENMONT ESTATE] in Llewellyn Park, New Jersey. She chose the latter, and the couple moved into their new home that April.
 
