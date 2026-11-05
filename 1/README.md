@@ -54,7 +54,7 @@ Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oa
 
 ## The Edison Household at Glenmont
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/4c49ee07729846269e9a1be69d12fbdf/proxymdres.jpg right width=80% caption="Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at home of Mr. Mamroth" 
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570355 right width=80% caption="Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at home of Mr. Mamroth" 
 
 By marrying Thomas Edison, Mina joined a household that included Thomas's three children from his first marriage: Marion, Thomas Jr., and William, who were roughly twelve, ten, and eight years old. Over the next twelve years, the household grew with the births of Madeleine in 1888, Charles in 1890, and Theodore in 1898.
 
@@ -88,7 +88,7 @@ Mina’s preparation for motherhood and home management began with the example s
 
 ### Glenmont: A Representation of the Edison Legacy
 
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/working-estate/Interior-sketches-of-Glenmont_1891.jpg left width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570357 left width=80% caption="Interior Sketches of Glenmont, 1908"
 
 The Glenmont Estate was multifunctional: it served as a private residence, a semi-public entertainment space, and a symbol of the Edison family's socioeconomic status. The domestic labor of the women and men who lived on the estate was essential to its operation as a public-private space, especially before semi-public and large private gatherings were delegated to hotels, lodges, restaurants, and other hospitality spaces
 
@@ -100,7 +100,7 @@ During the sixty years America's foremost inventor and his family lived at Glenm
 
 ### Household Administration at Glenmont
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg width=80% right Caption="Portrait of Mina Edison seated in the Conservatory at Glenmont"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570358 width=80% right Caption="Portrait of Mina Edison seated in the Conservatory at Glenmont"
 
 Mina Miller Edison’s role at Glenmont was central to the Edison household. While Edison remained absorbed in his laboratory work and scientific enterprises, Mina managed Glenmont's domestic and administrative affairs and, later, Seminole Lodge in Fort Myers, Florida. Her work included planning meals, supervising domestic employees, ordering supplies, arranging repairs and improvements, reviewing household accounts, and signing checks.
 
@@ -108,7 +108,7 @@ Mina Miller Edison’s role at Glenmont was central to the Edison household. Whi
 
 ### The Meaning of “Home Executive”
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg left caption="Mina Edison standing outside at Glenmont, circa 1935."
+.ve-media https://npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg left caption="Mina Edison standing outside at Glenmont, circa 1935."
 
 This role aligned with late nineteenth-century expectations for upper-middle-class wives, but Mina also understood household management as skilled executive labor. Reflecting on the inadequacy of the term “housewife,” she argued that a married woman should instead be understood as a “home executive,” a phrase that better captured the managerial authority and constructive work required to run a household of this scale.
 
