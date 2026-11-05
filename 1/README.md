@@ -17,7 +17,7 @@ TECH/WORKING NOTE TO REMOVE - Sections in outline not included in markdown:
 
 ## Glenmont as a Working Estate
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570343 left width=80%  caption="Cultural Landscape Inventory: Glenmont Estate"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570343 left width=85%  caption="Cultural Landscape Inventory: Glenmont Estate"
 
 The Glenmont estate, located near the intersection of Park Way and Honeysuckle Avenue, is part of Llewellyn Park, America’s first gated community. Soon after purchasing the estate for Mina Edison, Thomas Edison bought nearby land to build his West Orange laboratory, which was operational by 1887 and transformed the area into a busy industrial hub.
 
@@ -25,7 +25,7 @@ The Glenmont estate, located near the intersection of Park Way and Honeysuckle A
 
 ##
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570347 right width=80% caption="Atlas of Essex County, New Jersey, 1890."
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570347 right width=85% caption="Atlas of Essex County, New Jersey, 1890."
 
 The property included numerous outbuildings, a greenhouse, a small farm, the Gardener’s Cottage, the Potting Shed, the Garage, and extensive landscaped grounds. The Gardener’s Cottage was added in 1908, and construction on the Potting Shed began in 1906.
 
@@ -33,19 +33,19 @@ The property included numerous outbuildings, a greenhouse, a small farm, the Gar
 
 ## 
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570349 left left width=80% caption="National Park Service, “Glenmont”"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570349 left left width=85% caption="National Park Service, “Glenmont”"
 
 The main house at Glenmont Estate contains twenty-nine principal rooms, not including closets and secondary service spaces. The third floor contained the servants’ bedrooms, the former children’s nursery, extra guest bedrooms, and attic space. The second floor contained the family’s bedrooms, bathrooms, and living spaces. The first floor included the main entry, reception spaces, staircase, and formal rooms for hosting guests. The cellar contained the boiler room, coal rooms, store room, pump room, wood room, and ash room.
 
 *About the image: Map of Glenmont Estate labeling the Edison Home and surrounding estate features, greenhouse, Gardener’s Cottage, Potting Shed, Garage, Barn, Pump House, Edison gravesite, Park Way, Honeysuckle Road, and areas closed to the public.*
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570351 width=80% right caption="NPS"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570351 width=85% right caption="NPS"
 
 The service wing, called the back of the house, included the kitchen, pantry, and servants’ dining room. This section of the home also had a back staircase that domestic staff used to access the other floors.
 
 *About the image: Glenmont, exterior, side and driveway to entrance. The service wing is visible on the right side of the house; the servant entrance appears in the enclosed section with the double corner window. Image credit: U.S. National Park Service, Thomas Edison National Historical Park, Thomas Edison NHP Historical Photograph Collection.*
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570353 width=80% left caption="Portrait of Mina Edison and Thomas Edison, 1908."
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570353 width=85% left caption="Portrait of Mina Edison and Thomas Edison, 1908."
 
 Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oak Place, Mina’s childhood home, in Akron, Ohio. Thomas, who was thirty-nine, had lost his first wife, Mary Stilwell, two years prior. Mina, who was twenty years old, had recently completed her education at Miss Abby H. Johnson’s Home and Day School for Young Ladies in Boston. As a wedding gift, Thomas asked Mina to choose between a home in New York City and the former Pedder estate [WHEN DID THE PEDDER ESTATE BECOME THE GLENMONT ESTATE] in Llewellyn Park, New Jersey. She chose the latter, and the couple moved into their new home that April.
 
@@ -54,7 +54,7 @@ Thomas Edison and Mina Miller married on February 24, 1886, in the library of Oa
 
 ## The Edison Household at Glenmont
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570355 right width=80% caption="Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at home of Mr. Mamroth" 
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570355 right width=85% caption="Mina Edison, Thomas Edison, Marion Edison, Grace Miller, and others at home of Mr. Mamroth" 
 
 By marrying Thomas Edison, Mina joined a household that included Thomas's three children from his first marriage: Marion, Thomas Jr., and William, who were roughly twelve, ten, and eight years old. Over the next twelve years, the household grew with the births of Madeleine in 1888, Charles in 1890, and Theodore in 1898.
 
@@ -88,7 +88,7 @@ Mina’s preparation for motherhood and home management began with the example s
 
 ### Glenmont: A Representation of the Edison Legacy
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570357 left width=80% caption="Interior Sketches of Glenmont, 1908"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570357 left width=85% caption="Interior Sketches of Glenmont, 1908"
 
 The Glenmont Estate was multifunctional: it served as a private residence, a semi-public entertainment space, and a symbol of the Edison family's socioeconomic status. The domestic labor of the women and men who lived on the estate was essential to its operation as a public-private space, especially before semi-public and large private gatherings were delegated to hotels, lodges, restaurants, and other hospitality spaces
 
@@ -100,7 +100,7 @@ During the sixty years America's foremost inventor and his family lived at Glenm
 
 ### Household Administration at Glenmont
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/570358 width=80% right Caption="Portrait of Mina Edison seated in the Conservatory at Glenmont"
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570358 width=85% right Caption="Portrait of Mina Edison seated in the Conservatory at Glenmont"
 
 Mina Miller Edison’s role at Glenmont was central to the Edison household. While Edison remained absorbed in his laboratory work and scientific enterprises, Mina managed Glenmont's domestic and administrative affairs and, later, Seminole Lodge in Fort Myers, Florida. Her work included planning meals, supervising domestic employees, ordering supplies, arranging repairs and improvements, reviewing household accounts, and signing checks.
 
@@ -108,7 +108,7 @@ Mina Miller Edison’s role at Glenmont was central to the Edison household. Whi
 
 ### The Meaning of “Home Executive”
 
-.ve-media https://npgallery.nps.gov/EDIS/GetAsset/7fa0d6b34220485cbcd73ad2eaeeeb98/proxymdres.jpg left caption="Mina Edison standing outside at Glenmont, circa 1935."
+.ve-media https://edisondigital.rutgers.edu/iiif/2/570361 left width=85% caption="Mina Edison standing outside at Glenmont, circa 1935."
 
 This role aligned with late nineteenth-century expectations for upper-middle-class wives, but Mina also understood household management as skilled executive labor. Reflecting on the inadequacy of the term “housewife,” she argued that a married woman should instead be understood as a “home executive,” a phrase that better captured the managerial authority and constructive work required to run a household of this scale.
 
