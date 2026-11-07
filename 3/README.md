@@ -87,6 +87,8 @@ Guest rooms were used intermittently, but their preparation could be intense. A 
 
 Ann Osterhout Edison’s February 1927 letter to Mina offers a useful glimpse into the “housekeeping end” of Glenmont during Mina’s absence. The letter shows that guest-room preparation was not separate from the larger maintenance of the house. Rooms were opened or closed depending on who was staying, beds were made in the morning, covers were turned down at night, mending continued, and staff members adjusted their work around weather, travel, and household needs. Even when the family was away, Glenmont required coordination.
 
+NOTE: THIS PARAGRAPH APPEARED LATER IN THE MARKDOWN FILE, SEEMS LIKE IT'S AN OLDER DRAFT OF ABOVE PARAGRAPH: The letter shows that preparing guest rooms was part of a larger system of household management. Rooms were opened only as needed. Beds were made in the morning and turned down at night. Mending continued. Workers moved between the library, cars, bedrooms, and service routines. Even while Mina was away in Florida, Glenmont remained active, and Ann’s report helped keep Mina informed about the condition of the house, the staff, and the family members staying there.
+
 .ve-media https://edisondigital.rutgers.edu/iiif/X018A1AD left width=80% caption="Letter from Ann Osterhout Edison to Mina Miller Edison"
 
 ##### Transcription excerpt
@@ -115,17 +117,15 @@ When Thomas and Mina Edison spent the winter at Seminole Lodge in Fort Myers, Fl
 
 ##### West Room
 
-![Drawing of Glenmont’s West Room, Room 213, showing a guest bedroom with bed, fireplace, seating, windows, curtains, rug, dresser, and decorative furnishings.](images/west-room-drawing-glenmont.png)
+![Drawing of Glenmont’s West Room, Room 213, showing a guest bedroom with bed, fireplace, seating, windows, curtains, rug, dresser, and decorative furnishings.](edison.rutgers.edu/images/exhibits/working-estate/west-room-drawing-glenmont.png)
 
 *Room 213, West Room. Drawing of the West Room at Glenmont. From *The House at Glenmont, Volume II: Furnishing Plan*. Image credit: National Park Service, Thomas Edison National Historical Park.*
 
 ##### North Room
 
-![Drawing of Glenmont’s North Room, Room 210, showing a guest bedroom with bed, fireplace, desk, dresser, windows, curtains, rug, and seating.](images/north-room-drawing-glenmont.png)
+![Drawing of Glenmont’s North Room, Room 210, showing a guest bedroom with bed, fireplace, desk, dresser, windows, curtains, rug, and seating.](edison.rutgers.edu/images/exhibits/working-estate/north-room-drawing-glenmont.png)
 
 *Room 210, North Room. Drawing of the North Room at Glenmont. From *The House at Glenmont, Volume II: Furnishing Plan*. Image credit: National Park Service, Thomas Edison National Historical Park.*
-
-The letter shows that preparing guest rooms was part of a larger system of household management. Rooms were opened only as needed. Beds were made in the morning and turned down at night. Mending continued. Workers moved between the library, cars, bedrooms, and service routines. Even while Mina was away in Florida, Glenmont remained active, and Ann’s report helped keep Mina informed about the condition of the house, the staff, and the family members staying there.
 
 ## Special Occasions
 
