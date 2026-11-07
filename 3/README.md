@@ -252,38 +252,43 @@ From the entrance hall, visitors could be guided into the reception and drawing 
 
 [Source: NPGallery, “Glenmont, interior, first floor, foyer, entrance hall, fireplace.”](https://npgallery.nps.gov/EDIS/AssetDetail/bc0e7ba3-0c65-4f8d-a063-6191d5693ee8)
 
+.ve-media https://edisondigital.rutgers.edu/iiif/570440 left width=80% caption="Glenmont, interior, first floor, Drawing Room"
+
 The drawing room was one of Glenmont’s most formal social rooms. Here, furniture arrangement, lighting, textiles, rugs, and decorative objects helped create a setting for conversation, music, tea, or receiving guests. A parlor maid’s work in such a room was careful and repetitive. She did not simply clean; she preserved an appearance of ease.
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/ba63dcb8a7c8444d9021eb45c1b54fdf/proxyhires.jpg .left alt="Interior view of Glenmont’s first-floor Drawing Room, facing northeast." caption="Glenmont, interior, first floor, Drawing Room, facing northeast, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+*About the image: Interior view of Glenmont’s first-floor Drawing Room, facing northeast, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Drawing Room, facing northeast.”](https://npgallery.nps.gov/EDIS/AssetDetail/ba63dcb8-a7c8-444d-9021-eb45c1b54fdf)
 
 #### Organized Visiting and Women’s Social Networks
 
+.ve-media https://edisondigital.rutgers.edu/iiif/570442 right width=80% caption="Mina Edison with Daughters of the American Revolution, Essex chapter"
+
 This photograph shows Glenmont as a space for organized women’s sociability as well as family hospitality. Visits by groups such as the Daughters of the American Revolution required preparation beyond ordinary housekeeping. Chairs might be arranged, rooms aired, flowers refreshed, tea or light refreshments prepared, and public rooms kept ready for guests to move through them. Jennie Evenson’s work as parlor maid helps us imagine the labor behind this kind of occasion: the quiet work of making a formal room appear naturally ready for social life.
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/a67fb7a322b042a79b4e3d2d906de843/original.jpg .right alt="Mina Edison with members of the Daughters of the American Revolution, Essex chapter, at Glenmont." caption="Mina Edison with Daughters of the American Revolution, Essex chapter, at Glenmont, 1912. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+*About the image: Mina Edison with members of the Daughters of the American Revolution, Essex chapter, at Glenmont, 1912. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Mina Edison with Daughters of the American Revolution, Essex chapter, at Glenmont.”](https://npgallery.nps.gov/EDIS/AssetDetail/a67fb7a3-22b0-42a7-9b4e-3d2d906de843)
 
 #### The Drawing Room and Conservatory
 
+.ve-media https://edisondigital.rutgers.edu/iiif/570446 left width=80% caption="Glenmont, interior, first floor, Conservatory, October 21, 1960"
+
 The drawing room connected to the conservatory, extending the social route through Glenmont into a space associated with plants, display, light, and refinement. The conservatory was beautiful, but it was also labor-intensive. Plants required watering, cleaning, pruning, arranging, and seasonal care. When guests moved from the drawing room into the conservatory, they entered another kind of prepared space—one where household display depended on both indoor service and the broader work of gardeners and estate staff.
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/e31507ab305a456ab61b2817830f7076/proxyhires.jpg .left alt="Interior view of Glenmont’s first-floor Conservatory." caption="Glenmont, interior, first floor, Conservatory, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+*About the image: Interior view of Glenmont’s first-floor Conservatory, October 21, 1960. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Glenmont, interior, first floor, Conservatory.”](https://npgallery.nps.gov/EDIS/AssetDetail/e31507ab-305a-456a-b61b-2817830f7076)
 
+.ve-media https://edisondigital.rutgers.edu/iiif/570444 right width=80% caption="Portrait of Mina Edison, seated in the Conservatory at Glenmont"
+
 For Mina Edison, these rooms were not simply decorative. They were part of the social environment she managed as hostess and home executive. Guests could be welcomed, seated, entertained, and guided through a sequence of rooms that made Glenmont feel refined and orderly. That order depended on staff members like Jennie Evenson, whose public-room labor helped transform architecture and furnishings into hospitality.
 
-`image src=https://npgallery.nps.gov/EDIS/GetAsset/2429bd7f08364833a083e570482f5358/proxymdres.jpg .right alt="Portrait of Mina Edison seated in the Conservatory at Glenmont." caption="Portrait of Mina Edison, seated in the Conservatory at Glenmont, circa 1885. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain."`
+*About the image: Portrait of Mina Edison seated in the Conservatory at Glenmont, circa 1885. Thomas Edison NHP Historical Photograph Collection, Thomas Edison National Historical Park, West Orange, New Jersey. Image credit: U.S. National Park Service. Public domain.*
 
 [Source: NPGallery, “Portrait of Mina Edison, seated in the Conservatory at Glenmont.”](https://npgallery.nps.gov/EDIS/AssetDetail/2429bd7f-0836-4833-a083-e570482f5358)
 
-images/library-drawing-glenmont.png
-images/drawing-room-decorator-1891.png
-images/drawing-room-drawing-glenmont.png
-
+####
 ##### Library and Drawing Room Views {.cards}
 
 ###### Library
